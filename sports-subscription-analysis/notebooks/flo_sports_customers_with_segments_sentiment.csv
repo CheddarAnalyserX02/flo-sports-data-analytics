@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Region,SubscriptionType,TenureMonths,AvgMonthlyWatchHours,Churned,segment,survey_comment,sentiment
+CUST_0001,56,Female,West,Basic,1,4.2,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0002,69,Male,East,Standard,55,1.9,1,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0003,46,Male,West,Basic,56,41.5,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0004,32,Male,South,Premium,27,26.7,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0005,60,Male,North,Premium,46,39.0,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0006,25,Male,West,Standard,8,12.5,0,Loyal,The experience is average.,Negative
+CUST_0007,38,Male,West,Standard,51,17.9,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0008,56,Male,West,Basic,46,2.5,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0009,36,Male,West,Standard,42,48.1,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0010,40,Female,North,Premium,17,33.7,0,New,Customer service was fast and helpful.,Positive
+CUST_0011,28,Female,North,Standard,9,46.7,0,At Risk,It's just like other platforms.,Negative
+CUST_0012,28,Female,South,Basic,6,14.0,1,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0013,41,Female,North,Standard,43,31.0,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0014,53,Female,West,Premium,25,34.2,0,New,Customer service was fast and helpful.,Positive
+CUST_0015,57,Male,South,Basic,39,16.6,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0016,41,Female,South,Basic,49,42.6,0,At Risk,The experience is average.,Negative
+CUST_0017,20,Female,South,Standard,28,47.4,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0018,39,Female,West,Premium,33,44.4,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0019,19,Male,East,Basic,54,37.2,0,Loyal,The experience is average.,Negative
+CUST_0020,41,Male,West,Basic,37,14.6,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0021,61,Male,North,Basic,9,14.8,0,New,Customer service was fast and helpful.,Positive
+CUST_0022,47,Male,North,Basic,18,48.2,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0023,55,Female,West,Standard,56,1.5,0,Churned,The experience is average.,Negative
+CUST_0024,19,Female,West,Standard,59,36.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0025,38,Male,South,Standard,21,35.6,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0026,50,Other,West,Standard,2,31.5,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0027,29,Female,South,Basic,58,49.5,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0028,39,Male,North,Premium,43,16.3,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0029,61,Male,South,Standard,59,17.7,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0030,42,Male,West,Premium,38,4.9,1,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0031,66,Male,North,Standard,58,22.7,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0032,44,Male,East,Basic,40,13.8,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0033,59,Male,South,Standard,36,17.8,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0034,45,Male,North,Basic,50,41.9,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0035,33,Male,South,Standard,43,46.8,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0036,32,Female,North,Basic,37,10.1,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0037,64,Male,North,Basic,15,19.3,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0038,68,Female,South,Premium,28,46.5,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0039,61,Male,East,Basic,18,4.0,1,New,Too many buffering issues during live games.,Positive
+CUST_0040,69,Other,North,Premium,34,5.5,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0041,20,Male,North,Basic,22,9.0,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0042,54,Male,North,Standard,11,30.2,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0043,68,Other,East,Standard,58,8.4,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0044,24,Female,East,Standard,57,48.4,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0045,38,Female,West,Basic,13,22.9,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0046,26,Male,South,Basic,4,25.6,1,New,The subscription is too expensive for the value.,Negative
+CUST_0047,56,Male,East,Basic,22,13.1,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0048,35,Female,South,Basic,7,24.1,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0049,21,Female,West,Standard,43,33.4,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0050,42,Female,South,Premium,54,37.8,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0051,31,Female,East,Premium,24,37.9,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0052,67,Male,South,Standard,4,29.3,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0053,26,Female,East,Standard,28,45.3,0,Loyal,It's just like other platforms.,Negative
+CUST_0054,43,Male,South,Standard,15,41.1,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0055,19,Male,East,Basic,1,38.1,0,New,Customer support took too long to respond.,Neutral
+CUST_0056,37,Male,East,Premium,55,3.7,1,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0057,45,Female,South,Standard,3,1.3,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0058,64,Male,West,Standard,14,11.4,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0059,24,Male,North,Basic,38,33.5,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0060,61,Female,West,Standard,50,21.1,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0061,25,Male,South,Standard,57,20.7,0,Churned,The experience is average.,Negative
+CUST_0062,64,Female,West,Premium,1,44.3,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0063,52,Male,East,Standard,38,44.9,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0064,31,Female,North,Basic,38,45.5,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0065,34,Female,South,Premium,21,16.4,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0066,53,Male,South,Basic,48,34.9,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0067,67,Male,South,Standard,29,14.3,1,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0068,57,Male,North,Basic,5,10.3,1,Churned,Customer support took too long to respond.,Neutral
+CUST_0069,21,Male,East,Standard,49,10.0,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0070,19,Other,South,Premium,10,17.8,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0071,23,Male,West,Basic,28,22.1,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0072,59,Female,South,Premium,21,41.7,1,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0073,21,Male,South,Basic,50,6.9,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0074,46,Female,South,Premium,7,37.0,1,New,"No major issues, but not amazing either.",Negative
+CUST_0075,35,Female,South,Standard,3,27.0,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0076,43,Female,East,Premium,45,15.1,0,Churned,It's just like other platforms.,Negative
+CUST_0077,61,Male,West,Basic,47,25.1,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0078,51,Male,East,Premium,20,15.7,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0079,27,Male,West,Standard,19,30.2,1,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0080,53,Female,South,Basic,35,22.3,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0081,31,Female,North,Premium,4,9.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0082,48,Other,East,Basic,5,6.7,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0083,65,Male,North,Premium,1,27.8,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0084,32,Female,East,Basic,4,45.2,0,New,Customer service was fast and helpful.,Positive
+CUST_0085,25,Female,South,Standard,12,17.9,0,Churned,The experience is average.,Negative
+CUST_0086,31,Male,East,Standard,27,36.9,0,New,"No major issues, but not amazing either.",Negative
+CUST_0087,40,Male,South,Basic,56,33.3,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0088,57,Female,East,Basic,42,46.6,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0089,38,Female,South,Basic,23,41.2,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0090,33,Female,South,Standard,25,28.8,0,New,Customer service was fast and helpful.,Positive
+CUST_0091,62,Male,West,Basic,21,33.2,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0092,35,Female,South,Standard,58,45.0,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0093,64,Male,West,Basic,52,20.6,0,Loyal,It's just like other platforms.,Negative
+CUST_0094,41,Male,South,Basic,24,17.0,0,Churned,It's just like other platforms.,Negative
+CUST_0095,43,Male,North,Standard,25,1.5,0,Churned,It's just like other platforms.,Negative
+CUST_0096,42,Female,South,Basic,45,41.5,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0097,62,Female,North,Premium,55,40.2,0,New,The experience is average.,Negative
+CUST_0098,58,Female,North,Premium,46,6.1,0,Loyal,It's just like other platforms.,Negative
+CUST_0099,46,Male,South,Standard,32,29.3,1,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0100,32,Female,North,Standard,55,23.7,1,New,The subscription is too expensive for the value.,Negative
+CUST_0101,62,Male,West,Premium,32,6.8,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0102,18,Female,East,Basic,5,49.0,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0103,42,Male,South,Basic,36,11.5,0,New,The experience is average.,Negative
+CUST_0104,24,Male,North,Basic,46,4.3,1,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0105,26,Male,South,Standard,42,30.1,0,At Risk,The experience is average.,Negative
+CUST_0106,41,Male,West,Basic,49,37.2,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0107,18,Female,South,Standard,42,2.6,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0108,61,Female,South,Premium,58,33.3,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0109,25,Male,North,Premium,39,27.1,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0110,41,Female,West,Standard,16,6.1,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0111,28,Male,East,Basic,33,9.5,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0112,68,Female,East,Premium,49,28.8,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0113,34,Female,North,Standard,21,15.5,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0114,25,Female,South,Basic,9,47.0,0,New,Customer support took too long to respond.,Neutral
+CUST_0115,52,Male,North,Basic,6,41.1,1,Churned,Customer service was fast and helpful.,Positive
+CUST_0116,52,Female,North,Premium,51,49.2,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0117,50,Female,North,Standard,45,13.7,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0118,22,Male,South,Premium,35,48.5,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0119,59,Male,West,Premium,39,22.1,0,New,Too many buffering issues during live games.,Positive
+CUST_0120,56,Female,North,Standard,22,18.0,1,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0121,58,Female,South,Standard,41,3.5,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0122,45,Female,West,Standard,54,3.6,1,New,Customer support took too long to respond.,Neutral
+CUST_0123,24,Female,North,Basic,5,34.9,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0124,26,Female,East,Standard,42,23.4,1,New,Customer service was fast and helpful.,Positive
+CUST_0125,25,Male,West,Standard,23,12.1,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0126,29,Male,North,Standard,17,31.1,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0127,51,Male,West,Premium,12,13.4,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0128,50,Female,West,Standard,23,29.3,1,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0129,65,Male,West,Standard,16,18.6,1,New,The experience is average.,Negative
+CUST_0130,40,Female,West,Standard,3,41.4,0,New,I enjoy the variety of sports available.,Positive
+CUST_0131,41,Female,West,Standard,30,41.2,1,Churned,I enjoy the variety of sports available.,Positive
+CUST_0132,54,Female,West,Standard,57,24.4,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0133,52,Male,North,Basic,22,18.2,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0134,61,Female,East,Standard,9,18.8,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0135,57,Male,South,Basic,29,40.5,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0136,39,Female,West,Basic,47,17.1,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0137,44,Male,South,Standard,37,11.2,0,At Risk,It's just like other platforms.,Negative
+CUST_0138,52,Male,North,Standard,23,5.1,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0139,18,Female,West,Premium,13,23.9,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0140,52,Male,East,Standard,32,24.6,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0141,54,Male,South,Standard,46,42.2,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0142,64,Female,West,Standard,52,11.8,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0143,31,Female,North,Standard,47,19.7,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0144,20,Female,East,Basic,48,40.6,0,New,The subscription is too expensive for the value.,Negative
+CUST_0145,18,Female,South,Basic,23,41.4,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0146,22,Female,South,Basic,45,19.8,0,Churned,The experience is average.,Negative
+CUST_0147,43,Male,West,Standard,17,23.5,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0148,31,Male,East,Basic,55,15.9,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0149,56,Male,East,Basic,40,46.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0150,44,Female,East,Basic,21,6.8,0,Churned,It's just like other platforms.,Negative
+CUST_0151,26,Female,East,Premium,2,46.8,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0152,32,Male,North,Basic,37,34.5,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0153,32,Male,East,Standard,6,27.0,1,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0154,43,Female,South,Basic,44,2.6,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0155,59,Male,South,Standard,18,24.3,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0156,30,Female,North,Basic,30,21.0,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0157,68,Female,South,Basic,22,8.9,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0158,49,Female,South,Standard,54,33.2,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0159,56,Male,East,Basic,33,48.6,1,New,Customer support took too long to respond.,Neutral
+CUST_0160,66,Female,South,Basic,30,28.5,0,Loyal,The experience is average.,Negative
+CUST_0161,69,Female,North,Basic,17,36.0,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0162,49,Female,East,Basic,43,4.4,0,New,Customer service was fast and helpful.,Positive
+CUST_0163,21,Female,West,Basic,32,21.5,1,At Risk,Customer service was fast and helpful.,Positive
+CUST_0164,47,Female,East,Basic,42,6.7,0,New,Customer service was fast and helpful.,Positive
+CUST_0165,54,Female,North,Premium,51,31.0,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0166,40,Male,East,Standard,14,47.0,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0167,56,Female,East,Standard,58,33.4,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0168,62,Female,North,Basic,10,4.8,0,New,The subscription is too expensive for the value.,Negative
+CUST_0169,32,Male,East,Premium,47,18.4,0,Churned,It's just like other platforms.,Negative
+CUST_0170,60,Female,North,Basic,51,28.0,1,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0171,46,Female,North,Basic,36,20.8,1,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0172,53,Female,West,Standard,34,41.8,1,New,Customer service was fast and helpful.,Positive
+CUST_0173,30,Male,South,Basic,9,40.9,0,New,"No major issues, but not amazing either.",Negative
+CUST_0174,49,Male,South,Basic,42,31.0,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0175,24,Other,East,Standard,28,19.3,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0176,68,Female,East,Premium,11,13.5,0,New,Customer support took too long to respond.,Neutral
+CUST_0177,39,Male,West,Standard,14,6.2,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0178,45,Female,West,Standard,39,18.4,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0179,19,Female,West,Premium,55,21.2,0,New,Customer service was fast and helpful.,Positive
+CUST_0180,59,Female,North,Basic,47,34.1,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0181,62,Female,West,Basic,54,33.2,0,Churned,It's just like other platforms.,Negative
+CUST_0182,23,Male,West,Basic,19,4.4,0,At Risk,The experience is average.,Negative
+CUST_0183,45,Male,East,Standard,54,20.4,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0184,45,Male,West,Standard,15,9.9,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0185,61,Female,North,Premium,28,8.7,0,Churned,The experience is average.,Negative
+CUST_0186,61,Male,North,Standard,24,41.5,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0187,37,Male,East,Standard,8,3.1,0,New,"No major issues, but not amazing either.",Negative
+CUST_0188,47,Male,West,Basic,43,21.5,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0189,28,Female,West,Premium,9,9.2,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0190,45,Female,North,Premium,47,44.1,0,New,Too many buffering issues during live games.,Positive
+CUST_0191,42,Male,West,Premium,33,28.3,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0192,56,Male,West,Basic,33,12.3,0,New,I enjoy the variety of sports available.,Positive
+CUST_0193,50,Female,West,Standard,19,25.6,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0194,18,Male,South,Basic,3,36.8,0,At Risk,It's just like other platforms.,Negative
+CUST_0195,44,Male,East,Basic,10,47.9,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0196,69,Male,South,Basic,40,11.8,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0197,30,Male,East,Standard,47,44.4,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0198,58,Male,North,Standard,42,46.8,1,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0199,20,Female,West,Basic,1,45.9,0,Loyal,The experience is average.,Negative
+CUST_0200,56,Male,East,Basic,29,32.1,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0201,23,Female,South,Standard,50,31.9,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0202,25,Male,West,Basic,34,20.8,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0203,44,Female,North,Basic,51,37.9,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0204,26,Female,East,Standard,13,27.0,0,Loyal,It's just like other platforms.,Negative
+CUST_0205,54,Male,East,Standard,54,34.2,0,Churned,It's just like other platforms.,Negative
+CUST_0206,50,Female,East,Basic,1,22.0,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0207,68,Male,West,Basic,34,36.8,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0208,59,Other,South,Basic,29,41.4,0,New,It's just like other platforms.,Negative
+CUST_0209,61,Male,South,Premium,48,8.2,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0210,41,Male,East,Standard,47,41.8,0,At Risk,The experience is average.,Negative
+CUST_0211,32,Male,North,Standard,13,27.5,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0212,49,Other,North,Basic,48,42.4,1,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0213,49,Female,South,Standard,49,22.1,0,Loyal,The experience is average.,Negative
+CUST_0214,41,Female,North,Basic,53,19.6,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0215,58,Male,South,Standard,29,45.8,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0216,69,Female,East,Premium,39,13.3,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0217,66,Male,South,Standard,24,42.4,1,New,The experience is average.,Negative
+CUST_0218,66,Female,South,Premium,26,24.7,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0219,69,Male,East,Standard,17,26.2,1,Churned,Too many buffering issues during live games.,Positive
+CUST_0220,29,Male,North,Basic,7,16.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0221,56,Male,South,Premium,13,29.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0222,19,Male,South,Basic,5,16.9,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0223,20,Female,East,Standard,26,2.9,1,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0224,66,Male,North,Basic,49,14.3,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0225,54,Female,South,Basic,3,1.3,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0226,66,Male,East,Standard,7,48.9,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0227,34,Female,South,Basic,58,48.3,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0228,66,Male,West,Standard,49,20.4,1,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0229,19,Male,East,Standard,39,36.7,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0230,19,Female,North,Basic,53,17.9,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0231,45,Male,North,Basic,1,33.9,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0232,40,Male,North,Standard,49,40.5,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0233,54,Female,North,Basic,17,47.4,1,New,Customer service was fast and helpful.,Positive
+CUST_0234,49,Female,South,Standard,43,20.6,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0235,50,Male,South,Standard,25,39.4,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0236,18,Male,North,Premium,59,14.0,1,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0237,36,Female,North,Standard,3,49.5,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0238,19,Male,North,Standard,15,2.3,0,Churned,It's just like other platforms.,Negative
+CUST_0239,61,Male,South,Standard,29,30.6,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0240,43,Male,North,Basic,53,33.3,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0241,49,Female,North,Basic,43,34.7,0,New,I enjoy the variety of sports available.,Positive
+CUST_0242,23,Female,West,Standard,32,6.9,1,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0243,49,Male,West,Standard,26,47.0,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0244,21,Male,North,Standard,16,9.9,0,At Risk,The experience is average.,Negative
+CUST_0245,28,Male,East,Premium,25,31.5,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0246,34,Female,North,Premium,54,11.9,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0247,55,Male,West,Premium,28,16.1,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0248,41,Male,East,Standard,9,27.8,0,New,Customer service was fast and helpful.,Positive
+CUST_0249,22,Female,East,Basic,56,21.4,1,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0250,69,Male,North,Standard,56,8.9,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0251,51,Female,West,Basic,1,9.4,0,At Risk,It's just like other platforms.,Negative
+CUST_0252,23,Male,West,Standard,29,21.5,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0253,39,Male,East,Standard,57,38.1,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0254,28,Male,North,Standard,22,45.0,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0255,65,Female,South,Basic,16,5.1,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0256,33,Female,South,Basic,41,20.3,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0257,50,Female,West,Standard,51,5.9,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0258,26,Male,South,Basic,44,1.8,1,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0259,23,Female,West,Premium,51,33.4,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0260,33,Male,West,Basic,54,30.5,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0261,46,Male,West,Basic,41,9.0,0,New,I enjoy the variety of sports available.,Positive
+CUST_0262,20,Female,South,Basic,7,12.5,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0263,37,Male,West,Standard,14,2.2,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0264,53,Male,East,Standard,29,41.9,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0265,36,Male,North,Basic,19,48.8,0,New,The experience is average.,Negative
+CUST_0266,43,Male,North,Basic,19,7.6,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0267,20,Male,West,Standard,2,12.3,0,New,It's just like other platforms.,Negative
+CUST_0268,36,Female,North,Basic,41,43.6,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0269,37,Male,South,Standard,45,46.4,0,Loyal,The experience is average.,Negative
+CUST_0270,49,Female,South,Standard,15,21.6,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0271,24,Female,North,Basic,3,3.5,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0272,69,Male,South,Basic,11,2.9,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0273,58,Male,North,Premium,53,29.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0274,50,Male,North,Standard,46,20.3,0,New,It's just like other platforms.,Negative
+CUST_0275,57,Female,North,Standard,30,2.4,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0276,56,Male,West,Basic,57,29.6,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0277,35,Female,North,Standard,40,1.6,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0278,57,Male,West,Basic,18,39.6,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0279,18,Female,North,Standard,51,16.0,1,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0280,28,Male,North,Premium,48,3.0,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0281,45,Male,North,Basic,2,29.8,1,New,Customer support took too long to respond.,Neutral
+CUST_0282,42,Female,South,Basic,32,20.5,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0283,67,Female,West,Basic,8,48.7,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0284,40,Male,West,Basic,22,27.7,1,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0285,48,Female,North,Basic,6,14.5,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0286,47,Female,North,Basic,12,35.8,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0287,59,Female,South,Standard,47,14.3,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0288,52,Female,South,Standard,57,45.3,0,New,Too many buffering issues during live games.,Positive
+CUST_0289,24,Male,South,Basic,40,19.4,0,Churned,The experience is average.,Negative
+CUST_0290,33,Male,West,Premium,36,27.9,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0291,43,Male,West,Basic,15,3.5,0,New,I enjoy the variety of sports available.,Positive
+CUST_0292,65,Female,West,Premium,28,21.9,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0293,69,Female,North,Basic,52,41.8,1,Churned,Too many buffering issues during live games.,Positive
+CUST_0294,66,Male,West,Premium,57,40.5,0,Loyal,The experience is average.,Negative
+CUST_0295,19,Male,East,Standard,49,12.0,0,At Risk,The experience is average.,Negative
+CUST_0296,18,Female,East,Premium,45,12.1,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0297,65,Other,South,Premium,18,41.0,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0298,29,Female,West,Basic,2,46.6,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0299,22,Male,East,Premium,13,5.7,0,At Risk,It's just like other platforms.,Negative
+CUST_0300,54,Male,South,Basic,45,23.1,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0301,49,Male,West,Basic,54,17.5,0,Loyal,The experience is average.,Negative
+CUST_0302,26,Female,North,Basic,15,43.7,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0303,58,Male,East,Standard,20,5.1,1,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0304,52,Female,North,Basic,29,11.3,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0305,36,Male,West,Standard,59,37.9,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0306,65,Female,East,Standard,42,3.5,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0307,33,Female,West,Standard,29,25.1,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0308,20,Female,North,Premium,3,22.7,1,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0309,37,Male,East,Standard,19,17.4,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0310,41,Male,North,Basic,3,20.3,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0311,50,Male,West,Basic,54,27.0,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0312,41,Female,West,Basic,14,8.9,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0313,69,Female,North,Basic,40,29.0,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0314,28,Female,East,Basic,59,40.5,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0315,66,Female,North,Basic,55,38.2,1,Loyal,Customer support took too long to respond.,Neutral
+CUST_0316,25,Female,West,Premium,4,8.5,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0317,53,Male,North,Standard,59,8.3,1,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0318,55,Female,West,Basic,52,14.1,0,Loyal,It's just like other platforms.,Negative
+CUST_0319,57,Male,North,Standard,11,18.7,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0320,37,Male,East,Basic,58,21.0,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0321,52,Female,East,Standard,31,34.3,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0322,65,Male,North,Standard,43,3.8,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0323,42,Male,North,Standard,32,2.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0324,52,Female,East,Standard,27,20.2,0,Churned,The experience is average.,Negative
+CUST_0325,42,Male,West,Premium,30,35.2,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0326,46,Female,East,Premium,43,10.5,0,New,It's just like other platforms.,Negative
+CUST_0327,35,Male,West,Standard,2,32.4,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0328,63,Male,North,Standard,49,13.7,0,New,"No major issues, but not amazing either.",Negative
+CUST_0329,35,Male,North,Standard,9,44.4,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0330,19,Male,West,Basic,28,44.9,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0331,52,Female,North,Basic,31,15.6,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0332,33,Male,West,Basic,34,12.3,1,Churned,"No major issues, but not amazing either.",Negative
+CUST_0333,58,Female,South,Standard,56,21.2,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0334,53,Male,East,Standard,15,12.8,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0335,50,Female,South,Basic,48,33.9,1,At Risk,Customer support took too long to respond.,Neutral
+CUST_0336,21,Female,West,Premium,25,41.5,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0337,50,Female,East,Premium,36,34.0,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0338,31,Male,West,Standard,8,41.4,0,New,Customer service was fast and helpful.,Positive
+CUST_0339,38,Male,East,Standard,9,20.5,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0340,65,Male,East,Premium,58,8.7,0,Churned,The experience is average.,Negative
+CUST_0341,37,Female,East,Basic,58,37.2,0,New,"No major issues, but not amazing either.",Negative
+CUST_0342,25,Male,East,Standard,37,18.7,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0343,24,Female,West,Basic,48,33.9,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0344,20,Female,East,Standard,45,14.3,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0345,34,Male,East,Basic,39,5.0,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0346,50,Female,South,Premium,32,49.6,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0347,65,Male,North,Premium,58,8.7,0,New,It's just like other platforms.,Negative
+CUST_0348,29,Male,North,Basic,52,49.4,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0349,68,Female,South,Standard,17,48.9,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0350,39,Female,South,Premium,35,39.9,1,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0351,39,Female,West,Standard,37,33.3,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0352,63,Male,West,Premium,19,29.3,1,At Risk,Customer support took too long to respond.,Neutral
+CUST_0353,47,Male,West,Standard,44,43.4,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0354,55,Female,South,Basic,29,15.2,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0355,55,Female,South,Basic,59,23.9,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0356,62,Female,East,Basic,7,31.4,0,At Risk,It's just like other platforms.,Negative
+CUST_0357,68,Male,West,Standard,28,21.1,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0358,25,Female,West,Basic,9,21.9,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0359,44,Male,West,Standard,28,17.2,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0360,44,Male,North,Standard,6,28.6,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0361,51,Female,East,Standard,29,42.7,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0362,38,Male,West,Premium,58,10.9,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0363,47,Female,West,Premium,17,46.8,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0364,50,Male,West,Standard,16,34.8,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0365,45,Male,North,Premium,23,41.3,0,New,Customer service was fast and helpful.,Positive
+CUST_0366,64,Female,North,Standard,31,28.3,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0367,50,Female,South,Standard,3,39.2,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0368,22,Female,East,Premium,21,1.8,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0369,65,Female,South,Basic,26,41.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0370,36,Female,East,Basic,36,3.0,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0371,21,Female,North,Premium,42,44.6,0,Churned,The experience is average.,Negative
+CUST_0372,52,Female,West,Standard,37,49.6,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0373,66,Male,South,Premium,53,15.4,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0374,34,Female,West,Premium,22,11.3,1,New,"Great value for money, will recommend to friends.",Positive
+CUST_0375,61,Male,South,Basic,42,38.5,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0376,45,Other,North,Premium,12,13.4,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0377,47,Female,North,Standard,42,43.4,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0378,46,Male,North,Standard,13,6.0,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0379,63,Female,South,Standard,11,7.2,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0380,23,Female,East,Premium,54,49.0,0,New,Too many buffering issues during live games.,Positive
+CUST_0381,52,Male,South,Basic,16,34.0,1,New,Not user-friendly on mobile devices.,Neutral
+CUST_0382,58,Female,East,Standard,8,42.5,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0383,54,Female,South,Standard,40,16.9,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0384,41,Male,South,Standard,59,34.1,0,New,Customer service was fast and helpful.,Positive
+CUST_0385,46,Female,North,Standard,57,30.1,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0386,66,Male,West,Basic,40,30.6,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0387,63,Female,West,Basic,45,34.4,1,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0388,48,Other,East,Basic,59,29.2,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0389,52,Female,West,Premium,2,22.0,0,New,The subscription is too expensive for the value.,Negative
+CUST_0390,50,Male,South,Basic,30,14.5,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0391,69,Female,South,Basic,30,38.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0392,38,Female,North,Premium,12,12.1,0,New,I enjoy the variety of sports available.,Positive
+CUST_0393,49,Male,North,Basic,10,34.9,0,New,Customer support took too long to respond.,Neutral
+CUST_0394,40,Female,West,Premium,44,12.4,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0395,50,Male,East,Standard,11,31.6,0,New,"No major issues, but not amazing either.",Negative
+CUST_0396,20,Female,West,Premium,15,37.6,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0397,35,Male,West,Basic,16,11.7,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0398,42,Male,West,Basic,17,3.9,0,At Risk,It's just like other platforms.,Negative
+CUST_0399,59,Male,West,Standard,26,7.4,0,Churned,It's just like other platforms.,Negative
+CUST_0400,48,Female,South,Premium,2,30.7,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0401,20,Male,East,Standard,50,42.6,0,Churned,It's just like other platforms.,Negative
+CUST_0402,57,Female,South,Basic,12,3.2,0,New,It's just like other platforms.,Negative
+CUST_0403,63,Male,East,Standard,51,37.0,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0404,41,Male,North,Standard,26,17.7,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0405,67,Female,West,Standard,23,24.4,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0406,49,Female,South,Standard,18,46.5,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0407,64,Male,East,Premium,32,17.3,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0408,39,Female,North,Standard,49,23.8,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0409,40,Female,North,Basic,38,1.7,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0410,19,Female,West,Standard,57,5.0,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0411,44,Male,East,Basic,47,13.7,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0412,59,Male,South,Standard,3,2.4,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0413,19,Female,West,Standard,38,31.9,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0414,43,Male,South,Basic,3,21.9,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0415,34,Female,North,Basic,30,27.9,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0416,57,Female,South,Basic,1,9.6,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0417,50,Female,South,Premium,30,15.5,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0418,26,Female,West,Premium,45,33.5,0,New,"No major issues, but not amazing either.",Negative
+CUST_0419,60,Other,South,Basic,32,48.3,0,New,"No major issues, but not amazing either.",Negative
+CUST_0420,65,Male,West,Premium,28,3.5,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0421,56,Female,North,Standard,21,44.6,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0422,46,Male,West,Basic,58,29.3,1,Churned,The experience is average.,Negative
+CUST_0423,59,Male,West,Basic,46,28.6,1,Churned,"No major issues, but not amazing either.",Negative
+CUST_0424,43,Female,East,Standard,13,25.5,1,Churned,The subscription is too expensive for the value.,Negative
+CUST_0425,52,Female,South,Standard,27,4.4,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0426,67,Other,North,Standard,36,5.4,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0427,42,Female,West,Basic,7,30.4,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0428,41,Male,North,Basic,22,17.7,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0429,30,Male,East,Standard,10,45.9,0,Churned,The experience is average.,Negative
+CUST_0430,24,Female,South,Basic,39,20.9,0,New,The experience is average.,Negative
+CUST_0431,53,Male,West,Basic,53,8.0,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0432,62,Male,South,Basic,15,36.0,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0433,37,Male,East,Premium,15,15.4,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0434,18,Male,East,Premium,4,26.7,1,Loyal,It's just like other platforms.,Negative
+CUST_0435,25,Male,North,Standard,32,35.2,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0436,63,Male,West,Premium,23,45.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0437,33,Male,North,Basic,55,39.8,1,New,The streaming quality is excellent and smooth.,Positive
+CUST_0438,31,Male,East,Standard,6,34.1,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0439,29,Other,South,Basic,24,34.3,0,Loyal,The experience is average.,Negative
+CUST_0440,68,Male,North,Standard,20,47.4,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0441,40,Male,North,Premium,58,15.5,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0442,32,Female,South,Standard,37,1.1,1,Churned,"No major issues, but not amazing either.",Negative
+CUST_0443,45,Male,North,Basic,20,14.3,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0444,51,Female,South,Standard,12,11.7,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0445,19,Female,West,Basic,33,33.4,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0446,49,Male,South,Premium,28,32.1,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0447,40,Male,West,Standard,8,30.1,1,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0448,39,Female,South,Standard,1,1.8,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0449,68,Female,East,Standard,37,36.7,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0450,42,Male,East,Standard,22,16.9,0,At Risk,It's just like other platforms.,Negative
+CUST_0451,39,Female,West,Basic,6,33.6,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0452,39,Male,West,Standard,21,28.3,1,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0453,66,Other,East,Basic,32,17.8,0,Churned,The experience is average.,Negative
+CUST_0454,69,Male,West,Standard,35,7.6,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0455,59,Female,South,Premium,15,5.6,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0456,23,Female,South,Premium,5,41.7,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0457,32,Female,East,Standard,56,46.0,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0458,60,Female,North,Standard,46,32.8,1,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0459,54,Male,South,Basic,50,6.1,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0460,50,Male,West,Standard,48,20.7,1,At Risk,Customer service was fast and helpful.,Positive
+CUST_0461,25,Male,North,Basic,6,36.7,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0462,61,Male,North,Standard,25,39.2,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0463,61,Female,South,Basic,56,6.8,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0464,22,Male,South,Basic,46,1.0,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0465,56,Male,North,Standard,59,35.9,1,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0466,21,Other,North,Basic,56,18.5,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0467,23,Female,East,Standard,40,13.5,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0468,62,Female,West,Basic,29,1.6,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0469,49,Other,East,Basic,7,27.5,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0470,69,Male,South,Standard,40,42.7,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0471,47,Male,East,Basic,13,47.9,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0472,64,Female,East,Basic,38,28.7,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0473,52,Female,East,Standard,18,26.2,0,Churned,It's just like other platforms.,Negative
+CUST_0474,57,Male,East,Basic,2,5.2,0,At Risk,The experience is average.,Negative
+CUST_0475,69,Female,West,Premium,8,27.9,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0476,33,Male,West,Basic,11,19.6,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0477,30,Male,North,Basic,33,30.7,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0478,67,Female,South,Standard,54,20.0,1,New,I enjoy the variety of sports available.,Positive
+CUST_0479,59,Female,East,Basic,38,12.8,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0480,47,Female,North,Basic,48,5.7,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0481,36,Male,North,Basic,27,16.4,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0482,34,Female,North,Basic,20,5.7,0,New,Too many buffering issues during live games.,Positive
+CUST_0483,36,Male,West,Premium,12,9.7,0,Loyal,The experience is average.,Negative
+CUST_0484,45,Male,East,Basic,43,49.4,0,Churned,It's just like other platforms.,Negative
+CUST_0485,43,Female,East,Standard,31,22.8,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0486,54,Female,South,Premium,27,27.1,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0487,43,Female,East,Standard,32,43.8,0,New,The subscription is too expensive for the value.,Negative
+CUST_0488,40,Female,East,Premium,10,49.8,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0489,26,Female,North,Basic,3,29.6,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0490,29,Female,South,Premium,45,40.8,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0491,18,Male,East,Basic,27,17.0,0,New,Customer service was fast and helpful.,Positive
+CUST_0492,18,Male,West,Standard,35,16.0,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0493,64,Male,East,Standard,31,20.7,0,Loyal,It's just like other platforms.,Negative
+CUST_0494,51,Male,North,Basic,15,34.0,0,New,Customer service was fast and helpful.,Positive
+CUST_0495,49,Female,West,Standard,16,34.4,0,New,Customer support took too long to respond.,Neutral
+CUST_0496,65,Female,North,Standard,13,16.4,1,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0497,42,Male,East,Basic,49,7.5,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0498,57,Male,West,Basic,35,32.0,1,New,"No major issues, but not amazing either.",Negative
+CUST_0499,62,Female,South,Standard,52,7.3,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0500,18,Male,South,Standard,11,29.3,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0501,33,Female,West,Premium,59,35.0,1,Loyal,Too many buffering issues during live games.,Positive
+CUST_0502,56,Female,West,Standard,21,35.3,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0503,22,Female,North,Premium,51,37.9,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0504,39,Female,West,Standard,54,43.8,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0505,46,Female,North,Basic,11,25.5,0,New,It's just like other platforms.,Negative
+CUST_0506,20,Male,East,Basic,30,36.8,1,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0507,29,Female,North,Standard,48,31.3,0,New,"No major issues, but not amazing either.",Negative
+CUST_0508,43,Female,West,Standard,53,10.1,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0509,33,Male,West,Basic,35,2.3,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0510,68,Female,East,Basic,22,14.9,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0511,54,Female,West,Premium,38,22.7,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0512,39,Female,West,Standard,31,31.2,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0513,46,Female,South,Standard,14,42.6,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0514,31,Female,South,Standard,24,10.6,1,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0515,45,Female,East,Basic,50,7.2,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0516,22,Female,North,Basic,49,48.2,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0517,64,Female,South,Basic,32,6.3,1,Loyal,Customer support took too long to respond.,Neutral
+CUST_0518,66,Female,North,Basic,36,24.4,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0519,47,Female,West,Standard,32,29.7,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0520,63,Female,South,Standard,55,27.5,0,At Risk,It's just like other platforms.,Negative
+CUST_0521,69,Male,East,Premium,15,5.2,1,Churned,It's just like other platforms.,Negative
+CUST_0522,22,Female,East,Premium,43,3.8,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0523,29,Female,East,Basic,58,6.2,1,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0524,33,Male,South,Standard,35,29.7,0,New,Customer support took too long to respond.,Neutral
+CUST_0525,43,Female,North,Standard,3,27.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0526,43,Male,West,Premium,16,12.5,0,Loyal,It's just like other platforms.,Negative
+CUST_0527,65,Male,North,Basic,5,32.3,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0528,38,Female,North,Standard,21,41.2,0,Loyal,The experience is average.,Negative
+CUST_0529,56,Male,West,Standard,10,3.0,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0530,53,Female,West,Basic,19,25.4,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0531,50,Female,South,Basic,25,34.8,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0532,47,Female,South,Standard,4,13.4,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0533,54,Male,South,Standard,29,16.1,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0534,40,Male,South,Basic,19,31.1,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0535,27,Female,South,Standard,43,45.0,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0536,22,Other,West,Basic,2,40.7,0,New,The experience is average.,Negative
+CUST_0537,53,Female,North,Standard,10,29.6,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0538,51,Male,South,Basic,43,36.8,0,New,The experience is average.,Negative
+CUST_0539,69,Female,South,Premium,25,18.9,0,At Risk,The experience is average.,Negative
+CUST_0540,48,Female,North,Basic,20,32.4,1,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0541,27,Female,South,Basic,48,23.8,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0542,36,Male,North,Basic,19,10.3,0,New,Too many buffering issues during live games.,Positive
+CUST_0543,49,Female,North,Basic,23,35.4,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0544,18,Female,West,Standard,24,28.3,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0545,22,Other,East,Basic,11,18.6,0,New,Customer support took too long to respond.,Neutral
+CUST_0546,62,Male,West,Premium,46,45.7,0,New,The experience is average.,Negative
+CUST_0547,21,Female,East,Basic,34,2.0,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0548,33,Female,East,Basic,55,16.5,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0549,41,Male,East,Basic,28,3.8,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0550,33,Female,South,Basic,5,38.6,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0551,19,Female,West,Basic,59,35.4,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0552,66,Male,East,Standard,5,17.2,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0553,45,Male,North,Standard,51,34.1,1,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0554,49,Female,South,Standard,21,20.4,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0555,44,Male,West,Standard,12,38.1,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0556,37,Female,East,Standard,50,23.3,1,At Risk,Customer service was fast and helpful.,Positive
+CUST_0557,41,Male,North,Basic,4,21.2,0,Churned,It's just like other platforms.,Negative
+CUST_0558,29,Female,West,Standard,54,46.8,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0559,67,Male,West,Premium,49,13.3,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0560,52,Female,South,Standard,42,6.9,1,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0561,50,Other,West,Standard,20,29.6,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0562,50,Other,South,Basic,38,48.5,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0563,68,Female,East,Standard,25,19.5,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0564,60,Male,South,Standard,14,4.0,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0565,54,Female,North,Standard,11,17.6,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0566,29,Male,South,Premium,32,25.8,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0567,20,Male,North,Basic,11,8.9,1,Churned,It's just like other platforms.,Negative
+CUST_0568,18,Male,South,Basic,18,33.2,0,New,I enjoy the variety of sports available.,Positive
+CUST_0569,50,Female,West,Standard,27,49.9,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0570,57,Female,East,Premium,55,23.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0571,27,Female,North,Basic,54,18.4,0,At Risk,The experience is average.,Negative
+CUST_0572,60,Male,South,Basic,18,20.6,1,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0573,61,Male,South,Basic,56,6.6,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0574,46,Other,South,Basic,23,44.3,0,New,The subscription is too expensive for the value.,Negative
+CUST_0575,30,Male,West,Standard,11,21.3,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0576,29,Male,West,Standard,21,20.0,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0577,48,Male,North,Basic,44,33.3,1,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0578,63,Female,North,Basic,5,22.7,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0579,19,Female,West,Basic,23,32.8,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0580,68,Male,North,Basic,41,4.0,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0581,67,Male,East,Standard,59,40.9,1,New,Limited coverage for my favorite sports.,Positive
+CUST_0582,52,Female,East,Premium,25,47.1,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0583,40,Female,West,Premium,41,32.8,0,New,I enjoy the variety of sports available.,Positive
+CUST_0584,34,Male,North,Basic,54,47.8,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0585,43,Female,South,Premium,10,8.4,0,New,It's just like other platforms.,Negative
+CUST_0586,25,Male,East,Standard,22,24.4,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0587,46,Male,West,Standard,19,30.5,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0588,43,Female,North,Standard,1,29.5,0,Churned,It's just like other platforms.,Negative
+CUST_0589,27,Male,West,Basic,7,20.7,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0590,43,Female,South,Basic,4,17.6,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0591,51,Male,East,Basic,1,7.2,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0592,68,Male,West,Basic,15,20.2,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0593,58,Other,West,Basic,40,9.0,1,Loyal,It's just like other platforms.,Negative
+CUST_0594,24,Male,West,Standard,12,37.0,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0595,21,Female,South,Standard,22,11.2,0,Loyal,The experience is average.,Negative
+CUST_0596,67,Male,West,Standard,22,3.9,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0597,62,Male,South,Basic,50,28.1,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0598,28,Male,South,Premium,47,30.2,0,New,The subscription is too expensive for the value.,Negative
+CUST_0599,46,Female,South,Premium,17,43.7,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0600,53,Male,East,Standard,29,29.3,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0601,42,Female,East,Premium,46,17.9,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0602,38,Male,West,Standard,14,40.3,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0603,53,Other,West,Premium,50,27.5,0,Loyal,The experience is average.,Negative
+CUST_0604,27,Male,East,Basic,20,4.9,0,New,Too many buffering issues during live games.,Positive
+CUST_0605,54,Female,North,Basic,50,28.7,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0606,26,Female,East,Basic,48,45.5,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0607,41,Female,South,Basic,33,20.4,0,Churned,The experience is average.,Negative
+CUST_0608,52,Female,East,Basic,55,15.5,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0609,66,Female,South,Standard,59,8.0,0,New,Customer support took too long to respond.,Neutral
+CUST_0610,52,Female,West,Standard,43,8.4,0,New,The subscription is too expensive for the value.,Negative
+CUST_0611,65,Male,North,Standard,15,22.2,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0612,53,Male,West,Basic,12,30.2,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0613,35,Female,South,Premium,40,5.0,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0614,66,Female,South,Standard,54,47.0,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0615,56,Female,South,Basic,20,38.0,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0616,49,Female,North,Standard,30,29.7,1,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0617,41,Male,East,Basic,38,41.6,0,New,Too many buffering issues during live games.,Positive
+CUST_0618,40,Male,West,Basic,3,4.9,0,New,The subscription is too expensive for the value.,Negative
+CUST_0619,49,Female,West,Premium,28,24.4,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0620,54,Male,East,Basic,56,31.9,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0621,29,Male,West,Standard,26,41.6,1,Churned,Too many buffering issues during live games.,Positive
+CUST_0622,66,Female,North,Premium,30,39.4,1,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0623,30,Male,West,Standard,13,14.6,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0624,40,Female,South,Basic,13,47.1,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0625,42,Male,East,Basic,2,7.1,1,Churned,Customer service was fast and helpful.,Positive
+CUST_0626,52,Female,North,Basic,37,43.9,1,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0627,58,Male,East,Standard,49,48.6,0,New,I enjoy the variety of sports available.,Positive
+CUST_0628,47,Male,North,Standard,38,9.7,0,New,It's just like other platforms.,Negative
+CUST_0629,34,Male,South,Basic,2,36.4,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0630,66,Male,East,Premium,36,3.0,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0631,37,Male,West,Standard,54,20.9,0,Churned,The experience is average.,Negative
+CUST_0632,65,Male,North,Basic,26,26.3,0,Loyal,It's just like other platforms.,Negative
+CUST_0633,42,Female,East,Standard,11,29.5,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0634,39,Male,West,Standard,8,46.9,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0635,30,Female,East,Basic,44,33.9,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0636,36,Female,East,Basic,40,24.6,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0637,66,Female,East,Premium,43,40.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0638,53,Male,North,Standard,22,47.6,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0639,29,Female,West,Standard,20,2.1,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0640,58,Male,South,Standard,8,49.1,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0641,36,Male,North,Basic,29,5.2,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0642,29,Other,North,Basic,40,40.9,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0643,26,Male,North,Standard,26,14.7,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0644,24,Female,South,Basic,30,7.5,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0645,45,Female,West,Basic,17,22.6,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0646,31,Female,West,Premium,20,32.6,0,Churned,The experience is average.,Negative
+CUST_0647,48,Female,West,Premium,52,19.7,1,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0648,69,Male,East,Standard,55,3.7,1,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0649,36,Male,East,Premium,16,30.4,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0650,64,Female,East,Basic,46,45.2,0,New,Customer support took too long to respond.,Neutral
+CUST_0651,33,Male,South,Premium,43,19.8,1,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0652,22,Male,East,Basic,7,11.6,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0653,52,Male,South,Premium,16,22.7,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0654,29,Male,West,Premium,45,3.4,1,New,Limited coverage for my favorite sports.,Positive
+CUST_0655,42,Male,East,Standard,59,41.2,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0656,69,Male,East,Premium,47,41.5,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0657,38,Female,North,Standard,56,29.8,1,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0658,53,Female,South,Basic,48,18.3,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0659,40,Female,West,Standard,27,40.2,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0660,33,Male,North,Standard,53,28.2,0,Loyal,It's just like other platforms.,Negative
+CUST_0661,56,Male,North,Basic,23,41.5,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0662,62,Male,West,Standard,24,31.9,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0663,59,Female,North,Premium,9,39.4,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0664,56,Female,South,Basic,35,30.3,1,Loyal,Customer service was fast and helpful.,Positive
+CUST_0665,31,Male,South,Standard,51,21.3,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0666,48,Female,East,Premium,20,47.9,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0667,22,Male,North,Premium,37,27.5,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0668,52,Female,East,Premium,42,30.6,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0669,40,Female,North,Standard,17,11.8,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0670,46,Female,South,Premium,47,31.7,1,Churned,I enjoy the variety of sports available.,Positive
+CUST_0671,60,Female,South,Standard,31,29.0,1,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0672,28,Female,South,Basic,55,10.1,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0673,35,Male,North,Standard,57,3.9,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0674,64,Female,South,Standard,8,30.6,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0675,29,Male,North,Basic,15,38.4,0,New,I enjoy the variety of sports available.,Positive
+CUST_0676,26,Female,East,Standard,31,26.6,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0677,27,Female,North,Standard,53,12.1,0,At Risk,The experience is average.,Negative
+CUST_0678,61,Female,East,Basic,30,33.7,1,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0679,34,Male,North,Standard,46,4.9,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0680,55,Female,East,Standard,20,22.6,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0681,24,Female,South,Standard,39,9.0,0,Churned,It's just like other platforms.,Negative
+CUST_0682,63,Female,East,Basic,53,10.0,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0683,30,Male,South,Basic,55,10.9,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0684,57,Male,South,Basic,12,19.9,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0685,59,Male,East,Premium,49,3.5,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0686,26,Male,North,Basic,17,20.5,0,New,The subscription is too expensive for the value.,Negative
+CUST_0687,67,Female,North,Standard,42,26.1,0,Loyal,The experience is average.,Negative
+CUST_0688,44,Male,West,Basic,30,24.7,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0689,19,Other,North,Basic,29,19.8,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0690,22,Male,West,Premium,19,42.1,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0691,46,Male,North,Standard,46,8.1,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0692,54,Female,North,Basic,11,25.8,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0693,55,Female,South,Standard,34,4.0,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0694,36,Female,West,Basic,50,4.5,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0695,25,Female,North,Standard,7,29.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0696,65,Female,West,Standard,44,28.7,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0697,62,Male,South,Basic,58,44.0,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0698,18,Other,South,Basic,34,28.3,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0699,39,Other,West,Basic,59,48.0,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0700,69,Female,South,Premium,20,3.4,1,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0701,34,Male,East,Premium,50,5.8,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0702,24,Female,East,Basic,38,3.2,1,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0703,42,Male,South,Standard,24,10.1,0,New,Too many buffering issues during live games.,Positive
+CUST_0704,62,Male,East,Basic,10,27.5,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0705,21,Male,North,Basic,32,32.6,1,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0706,53,Male,West,Standard,52,3.2,0,New,The subscription is too expensive for the value.,Negative
+CUST_0707,23,Female,North,Premium,15,47.4,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0708,48,Female,West,Premium,37,42.3,0,At Risk,The experience is average.,Negative
+CUST_0709,36,Female,South,Standard,20,15.5,0,New,The experience is average.,Negative
+CUST_0710,61,Male,North,Basic,3,4.8,0,New,"No major issues, but not amazing either.",Negative
+CUST_0711,56,Male,South,Standard,37,9.3,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0712,44,Male,South,Basic,57,7.2,1,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0713,27,Other,West,Standard,40,7.0,0,Loyal,The experience is average.,Negative
+CUST_0714,43,Male,West,Basic,8,26.4,1,At Risk,The experience is average.,Negative
+CUST_0715,36,Female,West,Standard,40,13.0,1,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0716,56,Female,North,Basic,44,18.5,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0717,20,Male,East,Basic,56,49.5,0,At Risk,The experience is average.,Negative
+CUST_0718,62,Female,West,Premium,23,34.5,1,Churned,The subscription is too expensive for the value.,Negative
+CUST_0719,30,Female,West,Basic,40,47.5,1,At Risk,The experience is average.,Negative
+CUST_0720,67,Female,North,Standard,11,8.0,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0721,45,Female,West,Basic,46,19.7,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0722,37,Male,North,Basic,8,28.2,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0723,45,Male,South,Basic,29,4.8,0,New,I enjoy the variety of sports available.,Positive
+CUST_0724,25,Female,West,Basic,30,1.2,0,New,"No major issues, but not amazing either.",Negative
+CUST_0725,58,Female,West,Premium,56,33.9,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0726,56,Male,South,Basic,10,32.4,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0727,18,Female,South,Premium,39,21.1,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0728,20,Female,South,Standard,28,25.0,0,At Risk,The experience is average.,Negative
+CUST_0729,30,Female,West,Standard,49,21.4,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0730,45,Male,East,Standard,36,2.2,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0731,66,Female,East,Standard,13,17.4,0,New,I enjoy the variety of sports available.,Positive
+CUST_0732,42,Female,East,Standard,32,9.7,0,New,"No major issues, but not amazing either.",Negative
+CUST_0733,50,Male,West,Basic,36,5.8,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0734,55,Male,South,Basic,37,47.9,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0735,23,Other,West,Premium,26,30.4,1,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0736,61,Male,South,Premium,22,36.7,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0737,62,Female,West,Premium,4,16.5,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0738,49,Female,West,Standard,31,20.3,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0739,62,Male,South,Standard,18,12.6,1,Churned,Too many buffering issues during live games.,Positive
+CUST_0740,64,Female,East,Standard,38,5.8,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0741,38,Male,South,Standard,24,9.8,0,New,"No major issues, but not amazing either.",Negative
+CUST_0742,33,Female,North,Basic,56,40.1,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0743,38,Male,North,Standard,23,34.2,0,Loyal,Customer service was fast and helpful.,Positive
+CUST_0744,28,Female,South,Basic,22,27.8,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0745,54,Male,West,Basic,2,24.3,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0746,53,Male,North,Premium,31,46.2,0,At Risk,The experience is average.,Negative
+CUST_0747,52,Other,North,Basic,55,4.6,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0748,36,Male,West,Basic,11,14.7,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0749,37,Female,West,Basic,28,18.1,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0750,35,Male,East,Premium,46,39.3,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0751,64,Female,West,Standard,32,49.6,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0752,58,Male,South,Standard,5,12.8,0,Loyal,It's just like other platforms.,Negative
+CUST_0753,66,Other,South,Premium,38,43.8,0,Churned,"No major issues, but not amazing either.",Negative
+CUST_0754,31,Male,East,Premium,10,41.7,0,New,The subscription is too expensive for the value.,Negative
+CUST_0755,32,Male,North,Basic,40,12.0,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0756,48,Male,North,Standard,46,20.6,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0757,18,Male,West,Standard,24,21.1,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0758,20,Female,South,Standard,35,48.9,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0759,33,Male,North,Basic,44,9.9,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0760,40,Female,East,Premium,48,40.2,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0761,28,Male,East,Standard,23,17.4,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0762,29,Male,South,Basic,17,36.8,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0763,27,Female,East,Standard,1,21.6,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0764,49,Female,East,Basic,55,29.3,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0765,33,Male,South,Basic,31,41.8,0,New,Too many buffering issues during live games.,Positive
+CUST_0766,25,Male,West,Standard,31,40.4,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0767,55,Male,West,Basic,42,43.5,0,New,The subscription is too expensive for the value.,Negative
+CUST_0768,29,Female,East,Standard,57,3.9,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0769,41,Female,West,Standard,55,34.9,0,New,It's just like other platforms.,Negative
+CUST_0770,45,Male,West,Basic,42,7.9,0,New,The experience is average.,Negative
+CUST_0771,25,Female,East,Premium,53,21.4,1,Loyal,The experience is average.,Negative
+CUST_0772,45,Female,West,Basic,56,27.9,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0773,53,Female,East,Basic,34,20.7,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0774,43,Female,North,Basic,9,26.5,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0775,25,Male,South,Basic,22,49.8,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0776,67,Male,South,Basic,13,7.6,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0777,45,Male,West,Standard,25,34.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0778,45,Male,West,Premium,48,20.4,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0779,54,Female,West,Basic,18,7.5,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0780,58,Female,South,Standard,51,8.8,1,New,The streaming quality is excellent and smooth.,Positive
+CUST_0781,53,Male,North,Standard,12,47.5,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0782,44,Male,North,Premium,40,44.1,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0783,34,Male,South,Standard,17,45.4,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0784,26,Female,North,Basic,15,49.6,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0785,50,Male,South,Basic,42,11.2,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0786,37,Female,North,Standard,15,18.4,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0787,30,Male,East,Premium,15,33.8,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0788,45,Male,East,Basic,55,24.7,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0789,65,Other,South,Basic,39,21.5,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0790,46,Other,North,Premium,13,18.5,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0791,30,Male,West,Premium,17,30.1,0,Churned,The experience is average.,Negative
+CUST_0792,63,Female,North,Premium,32,29.2,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0793,52,Female,East,Standard,9,8.9,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0794,23,Female,East,Basic,40,24.1,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0795,35,Male,North,Standard,20,28.1,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0796,68,Female,North,Standard,26,28.9,0,At Risk,It's just like other platforms.,Negative
+CUST_0797,22,Female,West,Basic,27,11.3,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0798,64,Female,West,Standard,21,37.4,1,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0799,42,Male,North,Standard,18,2.2,0,Churned,It's just like other platforms.,Negative
+CUST_0800,19,Male,North,Basic,13,18.4,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0801,27,Male,North,Standard,16,39.2,0,New,The subscription is too expensive for the value.,Negative
+CUST_0802,47,Female,North,Standard,9,28.6,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0803,67,Male,South,Premium,12,13.8,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0804,62,Female,North,Basic,44,35.1,0,Churned,It's just like other platforms.,Negative
+CUST_0805,22,Other,West,Basic,38,28.8,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0806,50,Male,East,Standard,19,40.0,0,New,Too many buffering issues during live games.,Positive
+CUST_0807,18,Female,South,Basic,7,37.0,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0808,35,Male,North,Standard,57,30.9,0,New,Too many buffering issues during live games.,Positive
+CUST_0809,49,Female,East,Standard,35,24.9,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0810,64,Male,South,Basic,48,7.5,1,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0811,66,Female,East,Standard,18,13.8,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0812,28,Female,North,Standard,16,21.5,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0813,38,Female,North,Basic,55,30.4,0,New,The experience is average.,Negative
+CUST_0814,43,Female,West,Premium,39,26.2,0,New,I enjoy the variety of sports available.,Positive
+CUST_0815,42,Female,North,Premium,4,15.1,0,New,It's just like other platforms.,Negative
+CUST_0816,39,Female,North,Standard,59,1.3,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0817,44,Female,South,Standard,25,25.3,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0818,66,Female,West,Standard,32,15.0,0,Churned,The experience is average.,Negative
+CUST_0819,30,Male,South,Premium,40,37.0,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0820,50,Female,East,Standard,13,2.2,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0821,51,Female,North,Standard,45,29.7,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0822,58,Female,East,Premium,17,47.1,0,New,The experience is average.,Negative
+CUST_0823,52,Male,South,Basic,49,9.5,0,At Risk,The experience is average.,Negative
+CUST_0824,18,Female,North,Premium,37,24.1,1,New,"Service is fine, meets my expectations.",Positive
+CUST_0825,38,Male,North,Basic,6,5.5,1,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0826,65,Female,South,Basic,19,31.7,0,New,Customer service was fast and helpful.,Positive
+CUST_0827,23,Male,South,Basic,13,28.0,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0828,45,Female,South,Premium,57,21.0,0,At Risk,The experience is average.,Negative
+CUST_0829,34,Other,South,Premium,26,26.5,0,New,The subscription is too expensive for the value.,Negative
+CUST_0830,22,Male,South,Standard,14,44.9,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0831,48,Other,North,Standard,31,10.6,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0832,22,Male,South,Standard,54,2.1,0,New,Customer support took too long to respond.,Neutral
+CUST_0833,55,Female,North,Premium,4,43.2,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0834,20,Female,North,Standard,39,29.3,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0835,40,Female,South,Basic,8,44.6,0,Loyal,It's just like other platforms.,Negative
+CUST_0836,54,Female,South,Basic,25,30.3,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0837,54,Female,West,Standard,13,40.7,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0838,27,Male,North,Standard,32,22.1,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0839,27,Male,South,Basic,59,37.7,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0840,36,Female,South,Basic,38,45.7,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0841,34,Female,South,Premium,38,29.0,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0842,38,Female,West,Basic,56,9.9,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0843,31,Female,West,Standard,28,14.2,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0844,26,Male,East,Premium,53,10.7,0,New,Too many buffering issues during live games.,Positive
+CUST_0845,63,Female,North,Standard,30,13.1,0,New,The experience is average.,Negative
+CUST_0846,18,Male,East,Basic,3,16.0,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0847,68,Female,South,Standard,28,28.2,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0848,62,Male,West,Premium,3,29.8,0,Churned,Not user-friendly on mobile devices.,Neutral
+CUST_0849,30,Male,West,Standard,45,21.9,0,Loyal,"Service is fine, meets my expectations.",Positive
+CUST_0850,21,Male,East,Premium,54,31.2,1,New,"It's okay, nothing exceptional.",Positive
+CUST_0851,18,Male,West,Basic,34,5.0,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0852,66,Female,South,Standard,16,5.3,0,Churned,Limited coverage for my favorite sports.,Positive
+CUST_0853,57,Male,West,Standard,22,9.4,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0854,49,Male,East,Premium,32,26.4,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0855,51,Male,South,Basic,38,11.5,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0856,45,Male,East,Premium,8,14.9,0,New,"Service is fine, meets my expectations.",Positive
+CUST_0857,48,Male,West,Standard,55,20.6,0,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0858,25,Male,East,Basic,8,40.8,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0859,56,Female,East,Basic,57,1.7,0,At Risk,Not user-friendly on mobile devices.,Neutral
+CUST_0860,43,Female,North,Premium,6,32.8,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0861,51,Female,West,Basic,14,33.8,0,Churned,I enjoy the variety of sports available.,Positive
+CUST_0862,20,Male,West,Basic,32,40.1,0,New,The experience is average.,Negative
+CUST_0863,67,Male,East,Basic,35,46.7,0,New,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0864,29,Female,North,Premium,10,2.0,0,New,"No major issues, but not amazing either.",Negative
+CUST_0865,18,Female,West,Standard,3,8.5,1,New,The streaming quality is excellent and smooth.,Positive
+CUST_0866,61,Male,South,Standard,59,44.4,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0867,22,Male,East,Basic,12,23.5,0,New,"No major issues, but not amazing either.",Negative
+CUST_0868,47,Male,West,Standard,49,28.7,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0869,47,Male,South,Standard,59,33.5,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0870,34,Male,West,Premium,31,34.3,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0871,65,Female,South,Premium,29,46.7,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0872,64,Female,East,Basic,5,49.9,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0873,40,Female,West,Standard,52,36.3,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0874,32,Female,West,Basic,25,15.1,1,New,Limited coverage for my favorite sports.,Positive
+CUST_0875,54,Female,North,Standard,41,44.1,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0876,38,Female,East,Basic,31,3.4,0,New,The subscription is too expensive for the value.,Negative
+CUST_0877,31,Female,South,Basic,21,12.3,1,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0878,19,Male,West,Basic,58,45.0,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0879,28,Male,West,Standard,20,13.6,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0880,68,Male,South,Basic,39,11.8,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0881,56,Female,East,Standard,22,7.8,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0882,55,Female,North,Standard,4,43.1,1,Churned,The experience is average.,Negative
+CUST_0883,51,Male,North,Basic,13,25.5,1,At Risk,Customer support took too long to respond.,Neutral
+CUST_0884,55,Female,West,Standard,45,34.1,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0885,67,Male,South,Basic,42,12.7,0,Churned,It's just like other platforms.,Negative
+CUST_0886,51,Female,West,Standard,50,38.1,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0887,35,Male,South,Standard,49,38.2,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0888,47,Male,North,Basic,20,16.3,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0889,32,Female,East,Basic,52,21.1,0,New,Limited coverage for my favorite sports.,Positive
+CUST_0890,44,Male,South,Basic,13,11.3,1,Loyal,The experience is average.,Negative
+CUST_0891,68,Male,North,Premium,17,48.9,1,New,Not user-friendly on mobile devices.,Neutral
+CUST_0892,51,Male,West,Standard,54,32.6,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0893,69,Female,South,Standard,36,46.8,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0894,55,Female,East,Standard,33,15.9,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0895,50,Male,West,Basic,1,39.3,0,New,The subscription is too expensive for the value.,Negative
+CUST_0896,41,Female,West,Standard,15,38.5,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0897,32,Female,North,Standard,13,34.9,0,New,Too many buffering issues during live games.,Positive
+CUST_0898,47,Male,South,Basic,17,48.3,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0899,59,Male,West,Basic,24,20.3,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0900,68,Male,East,Basic,58,7.4,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0901,34,Male,South,Standard,8,33.9,1,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0902,22,Female,East,Premium,50,36.7,0,At Risk,The streaming quality is excellent and smooth.,Positive
+CUST_0903,46,Male,West,Basic,27,29.2,0,At Risk,The experience is average.,Negative
+CUST_0904,21,Female,East,Standard,45,11.1,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0905,27,Female,North,Basic,23,25.7,0,Loyal,Limited coverage for my favorite sports.,Positive
+CUST_0906,34,Male,East,Premium,46,16.3,1,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0907,27,Female,South,Basic,8,21.9,0,Churned,It's just like other platforms.,Negative
+CUST_0908,34,Male,East,Standard,8,32.6,0,At Risk,The subscription is too expensive for the value.,Negative
+CUST_0909,37,Other,East,Standard,59,37.5,0,Loyal,The experience is average.,Negative
+CUST_0910,41,Female,North,Standard,26,12.4,0,New,It's just like other platforms.,Negative
+CUST_0911,22,Female,East,Standard,47,20.9,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0912,51,Female,East,Basic,59,14.2,0,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0913,23,Male,West,Basic,13,10.7,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0914,19,Female,West,Basic,39,39.4,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0915,30,Female,South,Basic,37,45.6,0,Churned,The streaming quality is excellent and smooth.,Positive
+CUST_0916,60,Female,West,Standard,49,19.1,0,New,"Great value for money, will recommend to friends.",Positive
+CUST_0917,60,Female,West,Basic,28,37.8,0,New,The experience is average.,Negative
+CUST_0918,65,Female,West,Basic,25,45.0,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0919,28,Male,West,Standard,16,42.5,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0920,68,Male,North,Premium,55,10.0,1,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0921,64,Female,West,Standard,2,47.9,0,New,Customer support took too long to respond.,Neutral
+CUST_0922,40,Male,North,Basic,54,19.5,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0923,33,Female,North,Basic,18,17.6,0,At Risk,Too many buffering issues during live games.,Positive
+CUST_0924,48,Female,West,Premium,17,4.1,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0925,28,Male,East,Basic,30,24.8,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0926,33,Male,North,Basic,39,6.3,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0927,25,Female,East,Standard,13,13.2,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0928,21,Male,East,Standard,32,16.5,0,New,"No major issues, but not amazing either.",Negative
+CUST_0929,57,Female,West,Standard,50,40.6,1,At Risk,The experience is average.,Negative
+CUST_0930,21,Male,South,Basic,29,43.9,0,New,Too many buffering issues during live games.,Positive
+CUST_0931,42,Female,West,Basic,46,15.8,0,At Risk,It's just like other platforms.,Negative
+CUST_0932,20,Male,South,Premium,30,43.1,0,New,Too many buffering issues during live games.,Positive
+CUST_0933,49,Female,South,Basic,18,43.0,0,New,The experience is average.,Negative
+CUST_0934,20,Male,West,Standard,13,38.5,1,At Risk,Too many buffering issues during live games.,Positive
+CUST_0935,44,Female,West,Standard,43,8.2,0,Loyal,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0936,46,Male,South,Standard,21,34.8,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0937,49,Female,West,Basic,30,47.3,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0938,67,Female,South,Basic,21,34.4,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0939,68,Male,East,Standard,48,17.2,0,At Risk,I enjoy the variety of sports available.,Positive
+CUST_0940,36,Male,West,Premium,55,25.5,0,New,"No major issues, but not amazing either.",Negative
+CUST_0941,38,Male,East,Premium,17,32.6,0,Churned,It's just like other platforms.,Negative
+CUST_0942,22,Female,North,Basic,40,26.0,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0943,35,Female,East,Basic,19,6.9,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0944,45,Female,East,Premium,52,16.3,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0945,59,Male,South,Standard,15,40.3,0,Churned,Too many buffering issues during live games.,Positive
+CUST_0946,39,Male,East,Premium,9,43.2,0,New,Customer service was fast and helpful.,Positive
+CUST_0947,38,Female,West,Basic,52,7.7,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0948,23,Female,South,Standard,10,47.7,0,New,Not user-friendly on mobile devices.,Neutral
+CUST_0949,18,Other,North,Standard,44,17.1,0,New,Customer support took too long to respond.,Neutral
+CUST_0950,22,Male,West,Standard,31,33.5,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0951,58,Female,North,Standard,53,37.8,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0952,29,Male,East,Basic,23,40.8,0,Loyal,"No major issues, but not amazing either.",Negative
+CUST_0953,43,Male,West,Standard,52,47.3,0,Loyal,"It's okay, nothing exceptional.",Positive
+CUST_0954,63,Female,West,Basic,30,16.3,0,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0955,51,Female,North,Standard,33,43.1,0,At Risk,"It's okay, nothing exceptional.",Positive
+CUST_0956,66,Other,West,Premium,57,7.5,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_0957,31,Male,West,Basic,52,35.5,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0958,43,Male,West,Premium,9,37.4,0,Loyal,The experience is average.,Negative
+CUST_0959,62,Female,East,Basic,54,34.2,0,Churned,Customer support took too long to respond.,Neutral
+CUST_0960,44,Female,North,Standard,47,13.4,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0961,26,Male,West,Premium,1,43.8,0,New,I enjoy the variety of sports available.,Positive
+CUST_0962,43,Male,South,Basic,44,9.3,0,Churned,It's just like other platforms.,Negative
+CUST_0963,64,Male,South,Basic,35,3.6,0,New,The streaming quality is excellent and smooth.,Positive
+CUST_0964,39,Female,South,Standard,11,36.2,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0965,64,Male,South,Basic,34,24.3,0,Churned,"Great value for money, will recommend to friends.",Positive
+CUST_0966,47,Male,East,Standard,16,42.6,0,Loyal,It's just like other platforms.,Negative
+CUST_0967,60,Male,West,Premium,9,19.8,0,New,Customer service was fast and helpful.,Positive
+CUST_0968,65,Male,North,Standard,32,9.2,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0969,34,Male,West,Basic,15,42.0,0,At Risk,Limited coverage for my favorite sports.,Positive
+CUST_0970,43,Female,East,Standard,12,27.9,1,At Risk,"Great value for money, will recommend to friends.",Positive
+CUST_0971,53,Male,South,Standard,33,10.3,1,Loyal,The subscription is too expensive for the value.,Negative
+CUST_0972,18,Female,East,Basic,45,36.3,0,Churned,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0973,25,Male,West,Standard,14,26.0,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0974,66,Female,North,Standard,57,30.6,0,At Risk,"Service is fine, meets my expectations.",Positive
+CUST_0975,52,Female,East,Standard,57,23.6,0,Loyal,The experience is average.,Negative
+CUST_0976,69,Female,North,Basic,8,41.6,0,Churned,The subscription is too expensive for the value.,Negative
+CUST_0977,32,Female,East,Standard,8,41.6,0,At Risk,Customer service was fast and helpful.,Positive
+CUST_0978,64,Male,North,Basic,27,35.8,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0979,39,Male,North,Basic,12,6.2,0,Churned,The experience is average.,Negative
+CUST_0980,31,Female,South,Premium,1,42.1,0,Churned,"Service is fine, meets my expectations.",Positive
+CUST_0981,43,Other,North,Standard,43,33.9,0,At Risk,The experience is average.,Negative
+CUST_0982,45,Female,South,Basic,40,35.2,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0983,40,Female,West,Basic,42,18.8,1,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0984,31,Female,West,Basic,51,44.1,0,Loyal,Too many buffering issues during live games.,Positive
+CUST_0985,41,Male,South,Basic,11,36.5,0,At Risk,Customer support took too long to respond.,Neutral
+CUST_0986,19,Male,South,Basic,39,6.5,0,Loyal,The streaming quality is excellent and smooth.,Positive
+CUST_0987,62,Female,East,Basic,43,21.0,1,New,Not user-friendly on mobile devices.,Neutral
+CUST_0988,43,Female,East,Standard,31,44.4,0,At Risk,Absolutely love the coverage of my favorite sports!,Positive
+CUST_0989,31,Male,East,Standard,17,3.3,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0990,68,Female,West,Standard,33,48.1,0,Loyal,I enjoy the variety of sports available.,Positive
+CUST_0991,24,Male,East,Standard,32,34.3,0,Churned,Customer service was fast and helpful.,Positive
+CUST_0992,20,Female,North,Basic,58,31.9,0,Loyal,"Great value for money, will recommend to friends.",Positive
+CUST_0993,64,Male,North,Premium,29,14.3,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0994,40,Male,East,Premium,21,13.2,0,Churned,"It's okay, nothing exceptional.",Positive
+CUST_0995,63,Female,North,Premium,21,47.2,1,Loyal,Not user-friendly on mobile devices.,Neutral
+CUST_0996,60,Male,West,Premium,40,15.6,0,Churned,It's just like other platforms.,Negative
+CUST_0997,64,Female,North,Premium,23,39.0,0,Loyal,Customer support took too long to respond.,Neutral
+CUST_0998,62,Female,West,Standard,56,20.3,0,New,"It's okay, nothing exceptional.",Positive
+CUST_0999,35,Female,South,Basic,6,7.8,0,At Risk,"No major issues, but not amazing either.",Negative
+CUST_1000,55,Male,South,Standard,22,1.5,1,New,"Great value for money, will recommend to friends.",Positive

@@ -1,0 +1,11 @@
+
+Survey Analysis Summary:
+- Promoters: 49.5%
+- Passives: 32.5%
+- Detractors: 18.0%
+- Average CSAT Score: 2.96/5
+
+Business Interpretation:
+The high percentage of Promoters suggests strong brand loyalty, but the 18.0% detractor rate signals risk of churn.
+Passives present a clear upsell opportunity, as they are neutral but not enthusiastic.
+Improving streaming quality, adding fresh content, and optimizing pricing can convert Passives and reduce Detractors.

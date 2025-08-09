@@ -1,0 +1,201 @@
+CustomerID,CSAT_Score,NPS_Category,NPS_Score_Numeric,Open_Ended_Feedback,Survey_Date
+CUST_0001,3,Promoter,9,Fantastic app experience.,12/03/2024
+CUST_0002,2,Passive,7,Neutral experience overall.,02/08/2024
+CUST_0003,5,Promoter,10,"Great coverage, worth every cent.",09/04/2024
+CUST_0004,5,Promoter,9,"Great coverage, worth every cent.",14/09/2024
+CUST_0005,2,Passive,8,Streaming quality is inconsistent.,10/07/2024
+CUST_0006,4,Detractor,0,Frequent buffering ruins the experience.,09/11/2024
+CUST_0007,1,Passive,8,"Service is okay, could be improved.",18/02/2024
+CUST_0008,2,Passive,7,"Service is okay, could be improved.",06/07/2024
+CUST_0009,3,Promoter,10,Fantastic app experience.,29/12/2024
+CUST_0010,1,Passive,8,Content is fine but needs more variety.,10/05/2024
+CUST_0011,5,Detractor,6,Content is repetitive and boring.,24/11/2024
+CUST_0012,1,Promoter,10,"Great coverage, worth every cent.",11/11/2024
+CUST_0013,1,Passive,8,Neutral experience overall.,11/12/2024
+CUST_0014,4,Promoter,10,"Great coverage, worth every cent.",20/09/2024
+CUST_0015,1,Promoter,10,"Great coverage, worth every cent.",19/02/2024
+CUST_0016,2,Passive,8,"Service is okay, could be improved.",16/09/2024
+CUST_0017,2,Promoter,9,Love the commentary and highlights.,05/08/2024
+CUST_0018,4,Promoter,10,"Great coverage, worth every cent.",26/09/2024
+CUST_0019,4,Passive,7,Content is fine but needs more variety.,08/07/2024
+CUST_0020,5,Promoter,10,"Amazing service, I watch every week!",03/12/2024
+CUST_0021,2,Passive,8,Streaming quality is inconsistent.,04/08/2024
+CUST_0022,5,Promoter,10,"Great coverage, worth every cent.",10/02/2024
+CUST_0023,1,Promoter,9,"Amazing service, I watch every week!",10/12/2024
+CUST_0024,4,Detractor,0,Content is repetitive and boring.,15/05/2024
+CUST_0025,3,Promoter,9,"Great coverage, worth every cent.",21/03/2024
+CUST_0026,1,Passive,7,Streaming quality is inconsistent.,17/09/2024
+CUST_0027,1,Detractor,1,Too expensive for the value.,28/01/2024
+CUST_0028,2,Detractor,3,Too expensive for the value.,02/02/2024
+CUST_0029,5,Promoter,9,"Great coverage, worth every cent.",08/04/2024
+CUST_0030,3,Passive,8,"Service is okay, could be improved.",04/02/2024
+CUST_0031,3,Promoter,9,Fantastic app experience.,13/09/2024
+CUST_0032,3,Passive,7,Content is fine but needs more variety.,25/07/2024
+CUST_0033,4,Promoter,10,Love the commentary and highlights.,27/06/2024
+CUST_0034,1,Promoter,9,Love the commentary and highlights.,21/02/2024
+CUST_0035,5,Passive,8,Neutral experience overall.,18/08/2024
+CUST_0036,5,Promoter,9,Fantastic app experience.,05/02/2024
+CUST_0037,3,Detractor,6,Content is repetitive and boring.,30/08/2024
+CUST_0038,2,Promoter,10,"Amazing service, I watch every week!",14/02/2024
+CUST_0039,4,Promoter,9,Fantastic app experience.,28/01/2024
+CUST_0040,3,Promoter,10,"Great coverage, worth every cent.",07/05/2024
+CUST_0041,1,Detractor,3,Frequent buffering ruins the experience.,18/08/2024
+CUST_0042,1,Detractor,0,Too expensive for the value.,09/10/2024
+CUST_0043,5,Promoter,10,"Great coverage, worth every cent.",20/08/2024
+CUST_0044,3,Promoter,10,"Great coverage, worth every cent.",16/05/2024
+CUST_0045,3,Promoter,9,"Amazing service, I watch every week!",21/08/2024
+CUST_0046,3,Promoter,9,Fantastic app experience.,08/06/2024
+CUST_0047,4,Passive,7,Content is fine but needs more variety.,22/04/2024
+CUST_0048,4,Promoter,10,"Great coverage, worth every cent.",24/09/2024
+CUST_0049,3,Promoter,10,"Amazing service, I watch every week!",22/04/2024
+CUST_0050,1,Promoter,10,Love the commentary and highlights.,05/07/2024
+CUST_0051,4,Passive,8,Streaming quality is inconsistent.,23/02/2024
+CUST_0052,1,Promoter,10,Love the commentary and highlights.,05/05/2024
+CUST_0053,2,Promoter,10,"Great coverage, worth every cent.",08/06/2024
+CUST_0054,4,Passive,7,"Service is okay, could be improved.",21/07/2024
+CUST_0055,5,Promoter,9,Love the commentary and highlights.,07/04/2024
+CUST_0056,1,Passive,7,Streaming quality is inconsistent.,19/07/2024
+CUST_0057,5,Promoter,10,"Amazing service, I watch every week!",15/09/2024
+CUST_0058,4,Passive,7,"Service is okay, could be improved.",11/12/2024
+CUST_0059,4,Passive,7,Streaming quality is inconsistent.,17/12/2024
+CUST_0060,1,Promoter,9,Love the commentary and highlights.,07/05/2024
+CUST_0061,1,Passive,8,Streaming quality is inconsistent.,23/09/2024
+CUST_0062,2,Promoter,9,"Great coverage, worth every cent.",30/05/2024
+CUST_0063,3,Passive,8,Neutral experience overall.,19/09/2024
+CUST_0064,1,Passive,8,Content is fine but needs more variety.,29/02/2024
+CUST_0065,4,Promoter,9,"Amazing service, I watch every week!",06/02/2024
+CUST_0066,1,Detractor,6,Content is repetitive and boring.,20/08/2024
+CUST_0067,3,Promoter,10,"Great coverage, worth every cent.",31/05/2024
+CUST_0068,4,Promoter,9,Fantastic app experience.,15/03/2024
+CUST_0069,4,Detractor,3,Content is repetitive and boring.,10/09/2024
+CUST_0070,1,Promoter,10,Love the commentary and highlights.,08/04/2024
+CUST_0071,2,Detractor,1,Too expensive for the value.,12/07/2024
+CUST_0072,5,Passive,8,Neutral experience overall.,17/06/2024
+CUST_0073,1,Promoter,10,Love the commentary and highlights.,03/10/2024
+CUST_0074,3,Promoter,10,Love the commentary and highlights.,07/05/2024
+CUST_0075,3,Passive,8,Streaming quality is inconsistent.,22/01/2024
+CUST_0076,5,Promoter,10,"Amazing service, I watch every week!",20/02/2024
+CUST_0077,3,Detractor,2,Content is repetitive and boring.,13/08/2024
+CUST_0078,4,Promoter,9,"Great coverage, worth every cent.",12/11/2024
+CUST_0079,3,Promoter,10,"Amazing service, I watch every week!",10/07/2024
+CUST_0080,4,Passive,7,Neutral experience overall.,07/08/2024
+CUST_0081,5,Promoter,10,"Amazing service, I watch every week!",06/01/2024
+CUST_0082,5,Promoter,9,Love the commentary and highlights.,06/10/2024
+CUST_0083,5,Promoter,10,Fantastic app experience.,04/04/2024
+CUST_0084,4,Detractor,0,App crashes often.,09/07/2024
+CUST_0085,1,Promoter,10,Love the commentary and highlights.,12/09/2024
+CUST_0086,1,Promoter,10,"Amazing service, I watch every week!",10/08/2024
+CUST_0087,2,Detractor,2,Too expensive for the value.,14/10/2024
+CUST_0088,2,Passive,7,Content is fine but needs more variety.,06/05/2024
+CUST_0089,2,Passive,8,"Service is okay, could be improved.",29/09/2024
+CUST_0090,3,Detractor,0,Too expensive for the value.,02/09/2024
+CUST_0091,2,Promoter,9,Fantastic app experience.,03/09/2024
+CUST_0092,1,Promoter,10,"Great coverage, worth every cent.",13/01/2024
+CUST_0093,1,Promoter,9,Love the commentary and highlights.,05/02/2024
+CUST_0094,4,Passive,7,Content is fine but needs more variety.,22/05/2024
+CUST_0095,3,Promoter,10,Love the commentary and highlights.,01/06/2024
+CUST_0096,5,Promoter,10,Love the commentary and highlights.,29/05/2024
+CUST_0097,1,Passive,8,"Service is okay, could be improved.",28/06/2024
+CUST_0098,3,Promoter,9,Fantastic app experience.,10/04/2024
+CUST_0099,4,Passive,7,Content is fine but needs more variety.,17/04/2024
+CUST_0100,5,Passive,8,Neutral experience overall.,15/12/2024
+CUST_0101,4,Passive,7,"Service is okay, could be improved.",23/05/2024
+CUST_0102,2,Detractor,3,App crashes often.,06/06/2024
+CUST_0103,3,Promoter,10,Fantastic app experience.,01/04/2024
+CUST_0104,5,Passive,8,"Service is okay, could be improved.",26/04/2024
+CUST_0105,1,Promoter,9,Love the commentary and highlights.,08/05/2024
+CUST_0106,2,Promoter,9,"Amazing service, I watch every week!",05/04/2024
+CUST_0107,1,Passive,8,Neutral experience overall.,24/08/2024
+CUST_0108,5,Promoter,10,Fantastic app experience.,10/07/2024
+CUST_0109,5,Passive,8,Streaming quality is inconsistent.,03/09/2024
+CUST_0110,3,Promoter,10,"Amazing service, I watch every week!",26/03/2024
+CUST_0111,4,Promoter,10,Fantastic app experience.,09/03/2024
+CUST_0112,4,Promoter,10,"Amazing service, I watch every week!",22/07/2024
+CUST_0113,5,Promoter,10,"Amazing service, I watch every week!",08/02/2024
+CUST_0114,5,Promoter,10,Fantastic app experience.,23/01/2024
+CUST_0115,5,Promoter,10,Fantastic app experience.,09/04/2024
+CUST_0116,2,Promoter,9,"Great coverage, worth every cent.",06/09/2024
+CUST_0117,5,Detractor,0,Frequent buffering ruins the experience.,04/01/2024
+CUST_0118,2,Passive,8,Streaming quality is inconsistent.,08/06/2024
+CUST_0119,2,Detractor,3,Too expensive for the value.,11/06/2024
+CUST_0120,5,Passive,7,Neutral experience overall.,27/06/2024
+CUST_0121,3,Detractor,3,Frequent buffering ruins the experience.,05/03/2024
+CUST_0122,3,Detractor,1,Content is repetitive and boring.,13/02/2024
+CUST_0123,2,Promoter,10,"Great coverage, worth every cent.",09/09/2024
+CUST_0124,1,Promoter,9,"Amazing service, I watch every week!",30/03/2024
+CUST_0125,2,Promoter,10,"Great coverage, worth every cent.",30/03/2024
+CUST_0126,1,Promoter,9,Love the commentary and highlights.,14/07/2024
+CUST_0127,5,Passive,8,Streaming quality is inconsistent.,15/03/2024
+CUST_0128,1,Detractor,3,Content is repetitive and boring.,03/10/2024
+CUST_0129,2,Detractor,3,Frequent buffering ruins the experience.,22/12/2024
+CUST_0130,3,Passive,8,Neutral experience overall.,25/06/2024
+CUST_0131,2,Passive,8,Content is fine but needs more variety.,05/04/2024
+CUST_0132,5,Promoter,10,Fantastic app experience.,24/09/2024
+CUST_0133,1,Promoter,9,"Amazing service, I watch every week!",20/12/2024
+CUST_0134,1,Promoter,9,"Amazing service, I watch every week!",02/03/2024
+CUST_0135,5,Promoter,9,Love the commentary and highlights.,05/07/2024
+CUST_0136,4,Promoter,10,"Amazing service, I watch every week!",20/08/2024
+CUST_0137,4,Detractor,0,Frequent buffering ruins the experience.,24/07/2024
+CUST_0138,3,Passive,8,Content is fine but needs more variety.,23/05/2024
+CUST_0139,4,Promoter,9,"Amazing service, I watch every week!",25/01/2024
+CUST_0140,4,Passive,7,"Service is okay, could be improved.",22/02/2024
+CUST_0141,5,Passive,7,Streaming quality is inconsistent.,29/06/2024
+CUST_0142,2,Promoter,9,"Great coverage, worth every cent.",12/05/2024
+CUST_0143,3,Passive,7,Content is fine but needs more variety.,26/11/2024
+CUST_0144,1,Promoter,10,"Great coverage, worth every cent.",14/03/2024
+CUST_0145,5,Detractor,0,App crashes often.,17/08/2024
+CUST_0146,2,Promoter,9,"Great coverage, worth every cent.",09/10/2024
+CUST_0147,5,Passive,7,Neutral experience overall.,13/06/2024
+CUST_0148,5,Promoter,10,Love the commentary and highlights.,16/11/2024
+CUST_0149,1,Detractor,0,App crashes often.,27/10/2024
+CUST_0150,4,Passive,8,Content is fine but needs more variety.,01/10/2024
+CUST_0151,3,Passive,8,Content is fine but needs more variety.,20/07/2024
+CUST_0152,3,Detractor,6,Frequent buffering ruins the experience.,21/06/2024
+CUST_0153,2,Promoter,10,"Great coverage, worth every cent.",27/05/2024
+CUST_0154,1,Promoter,9,Love the commentary and highlights.,01/01/2024
+CUST_0155,1,Passive,8,Content is fine but needs more variety.,09/07/2024
+CUST_0156,1,Promoter,9,"Amazing service, I watch every week!",26/04/2024
+CUST_0157,5,Detractor,3,Too expensive for the value.,08/06/2024
+CUST_0158,5,Passive,7,Content is fine but needs more variety.,20/03/2024
+CUST_0159,4,Passive,7,"Service is okay, could be improved.",16/08/2024
+CUST_0160,4,Promoter,9,Love the commentary and highlights.,16/02/2024
+CUST_0161,1,Passive,8,Streaming quality is inconsistent.,23/02/2024
+CUST_0162,1,Passive,8,Content is fine but needs more variety.,12/01/2024
+CUST_0163,4,Detractor,5,Content is repetitive and boring.,04/06/2024
+CUST_0164,4,Promoter,10,"Amazing service, I watch every week!",12/06/2024
+CUST_0165,4,Promoter,10,"Amazing service, I watch every week!",26/06/2024
+CUST_0166,1,Promoter,9,"Amazing service, I watch every week!",15/08/2024
+CUST_0167,1,Detractor,5,Frequent buffering ruins the experience.,19/07/2024
+CUST_0168,5,Promoter,10,"Great coverage, worth every cent.",07/08/2024
+CUST_0169,3,Promoter,9,Love the commentary and highlights.,09/09/2024
+CUST_0170,5,Detractor,2,Too expensive for the value.,29/10/2024
+CUST_0171,2,Detractor,1,Content is repetitive and boring.,07/09/2024
+CUST_0172,1,Promoter,9,"Amazing service, I watch every week!",05/03/2024
+CUST_0173,1,Promoter,9,Fantastic app experience.,23/09/2024
+CUST_0174,1,Passive,7,Content is fine but needs more variety.,07/12/2024
+CUST_0175,5,Detractor,0,App crashes often.,07/04/2024
+CUST_0176,1,Promoter,9,Love the commentary and highlights.,06/11/2024
+CUST_0177,5,Detractor,0,App crashes often.,16/12/2024
+CUST_0178,5,Passive,7,Neutral experience overall.,23/01/2024
+CUST_0179,2,Passive,7,Neutral experience overall.,23/03/2024
+CUST_0180,1,Promoter,10,Love the commentary and highlights.,01/01/2024
+CUST_0181,4,Detractor,4,Content is repetitive and boring.,14/10/2024
+CUST_0182,2,Promoter,9,Love the commentary and highlights.,06/09/2024
+CUST_0183,3,Passive,8,Streaming quality is inconsistent.,01/11/2024
+CUST_0184,4,Detractor,5,Too expensive for the value.,09/08/2024
+CUST_0185,5,Passive,7,Content is fine but needs more variety.,06/12/2024
+CUST_0186,3,Passive,7,Content is fine but needs more variety.,12/04/2024
+CUST_0187,2,Promoter,10,"Amazing service, I watch every week!",20/10/2024
+CUST_0188,3,Passive,8,"Service is okay, could be improved.",03/11/2024
+CUST_0189,4,Passive,7,Neutral experience overall.,30/01/2024
+CUST_0190,1,Passive,7,"Service is okay, could be improved.",12/05/2024
+CUST_0191,1,Passive,8,Neutral experience overall.,25/11/2024
+CUST_0192,5,Passive,8,Streaming quality is inconsistent.,03/02/2024
+CUST_0193,5,Passive,8,Streaming quality is inconsistent.,05/05/2024
+CUST_0194,3,Passive,8,Neutral experience overall.,20/04/2024
+CUST_0195,3,Promoter,9,Love the commentary and highlights.,08/01/2024
+CUST_0196,1,Promoter,10,"Amazing service, I watch every week!",13/07/2024
+CUST_0197,5,Detractor,2,Frequent buffering ruins the experience.,08/06/2024
+CUST_0198,3,Promoter,10,Love the commentary and highlights.,03/10/2024
+CUST_0199,2,Promoter,10,Love the commentary and highlights.,12/11/2024
+CUST_0200,1,Promoter,10,"Amazing service, I watch every week!",12/05/2024

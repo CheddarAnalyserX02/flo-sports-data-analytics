@@ -1,0 +1,1001 @@
+CustomerID,CSAT_Score,NPS_Category,NPS_Score_Numeric,Open_Ended_Feedback,Survey_Date,survey_month,feedback_clean,sentiment_compound,sentiment_label
+CUST_0001,5,Passive,5,"No feedback, everything seems to be working fine.",2024-11-29,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0002,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-12,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0003,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-08,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0004,4,Passive,5,"No feedback, everything seems to be working fine.",2024-02-08,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0005,3,Promoter,10,Subscription price is too high for what's offered.,2024-08-04,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0006,2,Detractor,0,The streaming quality was terrible during the last game.,2024-06-02,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0007,5,Passive,5,"No feedback, everything seems to be working fine.",2024-05-13,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0008,1,Detractor,0,"The app keeps crashing, please fix it.",2024-05-28,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0009,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-22,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0010,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-26,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0011,2,Promoter,10,I love the new commentator! Great addition to the team.,2024-12-02,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0012,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-06-04,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0013,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-11-13,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0014,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-14,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0015,5,Passive,5,I love the new commentator! Great addition to the team.,2024-04-30,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0016,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-20,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0017,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-22,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0018,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-08,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0019,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-21,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0020,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-23,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0021,2,Detractor,0,Subscription price is too high for what's offered.,2024-03-22,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0022,5,Detractor,0,Wish there were more pre-game analysis segments.,2024-10-29,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0023,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-09,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0024,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-20,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0025,1,Detractor,0,I love the new commentator! Great addition to the team.,2024-05-11,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0026,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-05-23,2024-05,wish there were more pre game analysis segments,0.4019,positive
+CUST_0027,5,Passive,5,I love the new commentator! Great addition to the team.,2024-08-26,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0028,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-06,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0029,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-30,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0030,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-12-10,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0031,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-22,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0032,3,Promoter,10,The streaming quality was terrible during the last game.,2024-11-01,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0033,2,Detractor,0,I love the new commentator! Great addition to the team.,2024-02-01,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0034,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-01,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0035,1,Passive,5,"No feedback, everything seems to be working fine.",2024-12-28,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0036,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-10,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0037,1,Passive,5,"The app keeps crashing, please fix it.",2024-10-28,2024-10,the app keeps crashing please fix it,0.3182,positive
+CUST_0038,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-23,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0039,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-05-19,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0040,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-21,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0041,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-29,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0042,4,Detractor,0,I love the new commentator! Great addition to the team.,2024-01-16,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0043,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-17,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0044,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-04,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0045,1,Detractor,0,The streaming quality was terrible during the last game.,2024-02-17,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0046,4,Passive,5,"No feedback, everything seems to be working fine.",2024-01-24,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0047,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-05-08,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0048,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-12-13,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0049,2,Passive,5,I love the new commentator! Great addition to the team.,2024-09-08,2024-09,i love the new commentator great addition to the team,0.8519,positive
+CUST_0050,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-27,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0051,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-12-28,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0052,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-12,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0053,2,Promoter,10,Subscription price is too high for what's offered.,2024-12-29,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0054,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-26,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0055,5,Passive,5,The streaming quality was terrible during the last game.,2024-10-05,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0056,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-03-02,2024-03,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0057,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-24,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0058,5,Detractor,0,The streaming quality was terrible during the last game.,2024-11-03,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0059,4,Detractor,0,"The app keeps crashing, please fix it.",2024-03-21,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0060,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-28,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0061,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-08,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0062,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-07,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0063,2,Detractor,0,Subscription price is too high for what's offered.,2024-01-24,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0064,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-06-22,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0065,1,Passive,5,"No feedback, everything seems to be working fine.",2024-11-09,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0066,1,Passive,5,Wish there were more pre-game analysis segments.,2024-07-01,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0067,5,Promoter,10,The streaming quality was terrible during the last game.,2024-08-21,2024-08,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0068,1,Promoter,10,Subscription price is too high for what's offered.,2024-01-20,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0069,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-27,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0070,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-06-16,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0071,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-11,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0072,1,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-09-10,2024-09,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0073,5,Passive,5,Subscription price is too high for what's offered.,2024-03-28,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0074,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-24,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0075,4,Detractor,0,Subscription price is too high for what's offered.,2024-08-27,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0076,2,Passive,5,"No feedback, everything seems to be working fine.",2024-07-27,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0077,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-14,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0078,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-23,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0079,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-07,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0080,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-07,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0081,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-28,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0082,4,Detractor,0,The streaming quality was terrible during the last game.,2024-08-04,2024-08,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0083,1,Passive,5,The streaming quality was terrible during the last game.,2024-04-03,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0084,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-09,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0085,4,Passive,5,I love the new commentator! Great addition to the team.,2024-07-05,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0086,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-15,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0087,5,Detractor,0,"The app keeps crashing, please fix it.",2024-08-07,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0088,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-30,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0089,4,Detractor,0,"The app keeps crashing, please fix it.",2024-05-23,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0090,5,Detractor,0,The streaming quality was terrible during the last game.,2024-10-20,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0091,5,Passive,5,The streaming quality was terrible during the last game.,2024-02-02,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0092,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-16,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0093,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-24,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0094,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-09-02,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0095,1,Promoter,10,Subscription price is too high for what's offered.,2024-05-10,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0096,4,Promoter,10,"The app keeps crashing, please fix it.",2024-08-21,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0097,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-05,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0098,3,Passive,5,Wish there were more pre-game analysis segments.,2024-12-06,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0099,1,Detractor,0,The streaming quality was terrible during the last game.,2024-03-05,2024-03,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0100,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-04,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0101,4,Passive,5,Subscription price is too high for what's offered.,2024-09-15,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0102,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-18,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0103,1,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-10-07,2024-10,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0104,3,Promoter,10,Subscription price is too high for what's offered.,2024-11-08,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0105,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-10,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0106,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-30,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0107,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-09,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0108,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-06-30,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0109,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-23,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0110,5,Detractor,0,Subscription price is too high for what's offered.,2024-05-06,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0111,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-27,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0112,3,Passive,5,Subscription price is too high for what's offered.,2024-03-28,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0113,5,Passive,5,"No feedback, everything seems to be working fine.",2024-01-10,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0114,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-05,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0115,3,Passive,5,I love the new commentator! Great addition to the team.,2024-10-06,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0116,2,Promoter,10,The streaming quality was terrible during the last game.,2024-12-16,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0117,5,Promoter,10,Subscription price is too high for what's offered.,2024-11-09,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0118,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-06-11,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0119,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-02-29,2024-02,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0120,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-25,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0121,2,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-03-24,2024-03,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0122,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-08,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0123,2,Promoter,10,The streaming quality was terrible during the last game.,2024-03-10,2024-03,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0124,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-06-28,2024-06,i love the new commentator great addition to the team,0.8519,positive
+CUST_0125,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-30,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0126,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-12,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0127,2,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-07-09,2024-07,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0128,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-25,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0129,4,Detractor,0,"The app keeps crashing, please fix it.",2024-02-05,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0130,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-29,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0131,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-11,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0132,1,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-06-20,2024-06,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0133,4,Passive,5,"No feedback, everything seems to be working fine.",2024-03-31,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0134,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-03,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0135,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-18,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0136,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-26,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0137,4,Passive,5,Wish there were more pre-game analysis segments.,2024-11-10,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0138,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-05,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0139,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-07,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0140,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-14,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0141,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-07,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0142,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-22,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0143,4,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-09-09,2024-09,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0144,2,Passive,5,"The app keeps crashing, please fix it.",2024-09-02,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0145,5,Detractor,0,The streaming quality was terrible during the last game.,2024-07-19,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0146,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-11-10,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0147,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-05,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0148,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-13,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0149,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-06,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0150,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-03,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0151,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-14,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0152,1,Detractor,0,"The app keeps crashing, please fix it.",2024-12-11,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0153,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-22,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0154,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-10-21,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0155,1,Passive,5,"No feedback, everything seems to be working fine.",2024-05-19,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0156,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-07-12,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0157,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-28,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0158,3,Passive,5,Wish there were more pre-game analysis segments.,2024-07-08,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0159,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-27,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0160,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-23,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0161,2,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-09-05,2024-09,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0162,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-19,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0163,1,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-02-16,2024-02,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0164,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-29,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0165,5,Passive,5,I love the new commentator! Great addition to the team.,2024-01-21,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0166,3,Promoter,10,The streaming quality was terrible during the last game.,2024-04-09,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0167,1,Detractor,0,The streaming quality was terrible during the last game.,2024-07-25,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0168,4,Promoter,10,I love the new commentator! Great addition to the team.,2024-11-10,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0169,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-12,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0170,4,Passive,5,Wish there were more pre-game analysis segments.,2024-07-24,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0171,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-27,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0172,2,Promoter,10,Subscription price is too high for what's offered.,2024-11-05,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0173,4,Detractor,0,"The app keeps crashing, please fix it.",2024-09-12,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0174,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-12-23,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0175,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-10-01,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0176,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-10,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0177,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-31,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0178,4,Passive,5,"No feedback, everything seems to be working fine.",2024-05-20,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0179,2,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-11-29,2024-11,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0180,5,Promoter,10,"The app keeps crashing, please fix it.",2024-01-03,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0181,3,Detractor,0,Subscription price is too high for what's offered.,2024-10-02,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0182,2,Passive,5,Wish there were more pre-game analysis segments.,2024-02-14,2024-02,wish there were more pre game analysis segments,0.4019,positive
+CUST_0183,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-04-30,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0184,5,Promoter,10,"The app keeps crashing, please fix it.",2024-06-21,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0185,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-05-29,2024-05,wish there were more pre game analysis segments,0.4019,positive
+CUST_0186,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-24,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0187,5,Passive,5,I love the new commentator! Great addition to the team.,2024-05-25,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0188,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-20,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0189,5,Promoter,10,The streaming quality was terrible during the last game.,2024-09-30,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0190,4,Promoter,10,The streaming quality was terrible during the last game.,2024-01-05,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0191,2,Detractor,0,I love the new commentator! Great addition to the team.,2024-09-05,2024-09,i love the new commentator great addition to the team,0.8519,positive
+CUST_0192,3,Detractor,0,Wish there were more pre-game analysis segments.,2024-09-17,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0193,2,Passive,5,"The app keeps crashing, please fix it.",2024-12-10,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0194,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-01-21,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0195,1,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-08-15,2024-08,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0196,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-05,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0197,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-02,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0198,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-20,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0199,2,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-20,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0200,1,Passive,5,I love the new commentator! Great addition to the team.,2024-05-07,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0201,3,Promoter,10,"The app keeps crashing, please fix it.",2024-04-16,2024-04,the app keeps crashing please fix it,0.3182,positive
+CUST_0202,5,Promoter,10,Subscription price is too high for what's offered.,2024-10-19,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0203,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-14,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0204,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-02,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0205,5,Passive,5,"No feedback, everything seems to be working fine.",2024-01-10,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0206,5,Detractor,0,Subscription price is too high for what's offered.,2024-07-08,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0207,5,Passive,5,I love the new commentator! Great addition to the team.,2024-12-30,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0208,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-11-01,2024-11,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0209,5,Detractor,0,The streaming quality was terrible during the last game.,2024-04-08,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0210,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-03-15,2024-03,wish there were more pre game analysis segments,0.4019,positive
+CUST_0211,3,Passive,5,"No feedback, everything seems to be working fine.",2024-04-30,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0212,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-22,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0213,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-26,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0214,4,Detractor,0,"The app keeps crashing, please fix it.",2024-05-23,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0215,1,Passive,5,The streaming quality was terrible during the last game.,2024-07-08,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0216,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-10,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0217,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-26,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0218,3,Promoter,10,Subscription price is too high for what's offered.,2024-03-17,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0219,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-21,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0220,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-07,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0221,2,Passive,5,"The app keeps crashing, please fix it.",2024-03-16,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0222,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-22,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0223,3,Passive,5,Wish there were more pre-game analysis segments.,2024-09-07,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0224,4,Detractor,0,Subscription price is too high for what's offered.,2024-10-22,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0225,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-04,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0226,2,Passive,5,"No feedback, everything seems to be working fine.",2024-04-10,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0227,2,Promoter,10,The streaming quality was terrible during the last game.,2024-09-14,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0228,3,Passive,5,"No feedback, everything seems to be working fine.",2024-11-30,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0229,1,Passive,5,I love the new commentator! Great addition to the team.,2024-08-18,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0230,2,Promoter,10,The streaming quality was terrible during the last game.,2024-12-09,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0231,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-01-03,2024-01,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0232,2,Passive,5,I love the new commentator! Great addition to the team.,2024-05-31,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0233,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-18,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0234,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-05-20,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0235,4,Passive,5,Wish there were more pre-game analysis segments.,2024-01-31,2024-01,wish there were more pre game analysis segments,0.4019,positive
+CUST_0236,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-26,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0237,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-04-19,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0238,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-06-05,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0239,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-02-13,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0240,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-06,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0241,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-20,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0242,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-23,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0243,5,Promoter,10,"The app keeps crashing, please fix it.",2024-06-22,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0244,2,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-03-26,2024-03,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0245,5,Promoter,10,"The app keeps crashing, please fix it.",2024-06-10,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0246,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-06,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0247,2,Passive,5,The streaming quality was terrible during the last game.,2024-11-08,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0248,4,Passive,5,"No feedback, everything seems to be working fine.",2024-12-29,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0249,2,Detractor,0,"The app keeps crashing, please fix it.",2024-12-27,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0250,3,Passive,5,Wish there were more pre-game analysis segments.,2024-10-12,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0251,4,Detractor,0,Subscription price is too high for what's offered.,2024-11-19,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0252,1,Passive,5,Subscription price is too high for what's offered.,2024-09-23,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0253,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-04-12,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0254,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-07,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0255,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-29,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0256,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-18,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0257,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-11-11,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0258,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-13,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0259,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-29,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0260,5,Promoter,10,The streaming quality was terrible during the last game.,2024-06-02,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0261,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-20,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0262,5,Promoter,10,The streaming quality was terrible during the last game.,2024-07-31,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0263,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-01-11,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0264,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-13,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0265,5,Detractor,0,"The app keeps crashing, please fix it.",2024-10-03,2024-10,the app keeps crashing please fix it,0.3182,positive
+CUST_0266,1,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-16,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0267,2,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-10-03,2024-10,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0268,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-26,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0269,1,Passive,5,Wish there were more pre-game analysis segments.,2024-09-14,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0270,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-27,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0271,5,Promoter,10,Subscription price is too high for what's offered.,2024-06-30,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0272,4,Passive,5,I love the new commentator! Great addition to the team.,2024-10-08,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0273,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-31,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0274,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-19,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0275,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-24,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0276,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-03,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0277,1,Promoter,10,The streaming quality was terrible during the last game.,2024-05-31,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0278,4,Promoter,10,Subscription price is too high for what's offered.,2024-06-06,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0279,3,Detractor,0,Wish there were more pre-game analysis segments.,2024-03-11,2024-03,wish there were more pre game analysis segments,0.4019,positive
+CUST_0280,2,Detractor,0,Subscription price is too high for what's offered.,2024-12-28,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0281,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-11-12,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0282,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-10-19,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0283,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-07-18,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0284,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-31,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0285,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-14,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0286,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-24,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0287,5,Detractor,0,"The app keeps crashing, please fix it.",2024-02-09,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0288,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-17,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0289,3,Passive,5,The streaming quality was terrible during the last game.,2024-07-19,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0290,3,Detractor,0,"The app keeps crashing, please fix it.",2024-05-06,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0291,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-28,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0292,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-01,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0293,3,Passive,5,The streaming quality was terrible during the last game.,2024-06-29,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0294,5,Passive,5,I love the new commentator! Great addition to the team.,2024-03-08,2024-03,i love the new commentator great addition to the team,0.8519,positive
+CUST_0295,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-11-02,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0296,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-01-18,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0297,2,Passive,5,Subscription price is too high for what's offered.,2024-09-18,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0298,2,Detractor,0,I love the new commentator! Great addition to the team.,2024-03-09,2024-03,i love the new commentator great addition to the team,0.8519,positive
+CUST_0299,5,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-11-23,2024-11,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0300,5,Passive,5,"The app keeps crashing, please fix it.",2024-12-11,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0301,4,Passive,5,"No feedback, everything seems to be working fine.",2024-04-08,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0302,4,Detractor,0,The streaming quality was terrible during the last game.,2024-09-01,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0303,4,Passive,5,I love the new commentator! Great addition to the team.,2024-11-23,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0304,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-03-03,2024-03,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0305,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-02-29,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0306,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-12-08,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0307,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-28,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0308,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-07,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0309,3,Promoter,10,"The app keeps crashing, please fix it.",2024-08-10,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0310,1,Passive,5,"No feedback, everything seems to be working fine.",2024-07-07,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0311,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-27,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0312,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-14,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0313,5,Passive,5,"No feedback, everything seems to be working fine.",2024-05-08,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0314,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-02-02,2024-02,wish there were more pre game analysis segments,0.4019,positive
+CUST_0315,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-30,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0316,4,Promoter,10,The streaming quality was terrible during the last game.,2024-03-18,2024-03,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0317,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-10-18,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0318,2,Promoter,10,I love the new commentator! Great addition to the team.,2024-11-03,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0319,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-23,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0320,3,Promoter,10,The streaming quality was terrible during the last game.,2024-07-21,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0321,4,Promoter,10,I love the new commentator! Great addition to the team.,2024-09-24,2024-09,i love the new commentator great addition to the team,0.8519,positive
+CUST_0322,1,Promoter,10,Subscription price is too high for what's offered.,2024-07-08,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0323,2,Passive,5,Subscription price is too high for what's offered.,2024-05-10,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0324,3,Passive,5,I love the new commentator! Great addition to the team.,2024-12-22,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0325,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-08-15,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0326,3,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-05,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0327,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-09,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0328,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-10,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0329,2,Promoter,10,I love the new commentator! Great addition to the team.,2024-03-09,2024-03,i love the new commentator great addition to the team,0.8519,positive
+CUST_0330,3,Promoter,10,Subscription price is too high for what's offered.,2024-07-06,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0331,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-12,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0332,4,Passive,5,"No feedback, everything seems to be working fine.",2024-06-22,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0333,1,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-04,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0334,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-13,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0335,3,Promoter,10,Subscription price is too high for what's offered.,2024-06-02,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0336,2,Passive,5,Subscription price is too high for what's offered.,2024-04-21,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0337,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-18,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0338,5,Passive,5,Subscription price is too high for what's offered.,2024-04-12,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0339,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-09,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0340,3,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-11,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0341,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-04-10,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0342,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-03,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0343,2,Detractor,0,Subscription price is too high for what's offered.,2024-11-17,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0344,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-10-13,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0345,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-31,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0346,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-18,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0347,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-01-25,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0348,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-09-25,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0349,5,Detractor,0,I love the new commentator! Great addition to the team.,2024-10-07,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0350,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-04-22,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0351,1,Detractor,0,The streaming quality was terrible during the last game.,2024-01-27,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0352,2,Detractor,0,Wish there were more pre-game analysis segments.,2024-04-14,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0353,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-15,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0354,2,Passive,5,"The app keeps crashing, please fix it.",2024-04-20,2024-04,the app keeps crashing please fix it,0.3182,positive
+CUST_0355,2,Detractor,0,Subscription price is too high for what's offered.,2024-11-11,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0356,5,Passive,5,"No feedback, everything seems to be working fine.",2024-07-02,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0357,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-04,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0358,2,Promoter,10,I love the new commentator! Great addition to the team.,2024-01-08,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0359,3,Passive,5,Subscription price is too high for what's offered.,2024-11-07,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0360,5,Detractor,0,"The app keeps crashing, please fix it.",2024-06-08,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0361,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-07,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0362,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-10,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0363,3,Passive,5,Wish there were more pre-game analysis segments.,2024-07-02,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0364,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-09-08,2024-09,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0365,1,Detractor,0,Subscription price is too high for what's offered.,2024-02-13,2024-02,subscription price is too high for what s offered,0.0,neutral
+CUST_0366,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-02,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0367,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-15,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0368,5,Passive,5,Subscription price is too high for what's offered.,2024-01-15,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0369,2,Passive,5,Wish there were more pre-game analysis segments.,2024-07-16,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0370,2,Passive,5,I love the new commentator! Great addition to the team.,2024-06-13,2024-06,i love the new commentator great addition to the team,0.8519,positive
+CUST_0371,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-08-18,2024-08,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0372,2,Detractor,0,I love the new commentator! Great addition to the team.,2024-01-13,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0373,4,Passive,5,The streaming quality was terrible during the last game.,2024-06-23,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0374,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-04,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0375,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-21,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0376,5,Passive,5,"No feedback, everything seems to be working fine.",2024-02-23,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0377,3,Detractor,0,The streaming quality was terrible during the last game.,2024-01-07,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0378,1,Promoter,10,"The app keeps crashing, please fix it.",2024-11-08,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0379,5,Detractor,0,Wish there were more pre-game analysis segments.,2024-10-11,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0380,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-08-19,2024-08,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0381,5,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-08-31,2024-08,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0382,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-21,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0383,1,Promoter,10,"The app keeps crashing, please fix it.",2024-01-26,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0384,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-10-10,2024-10,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0385,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-22,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0386,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-01-08,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0387,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-16,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0388,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-11-07,2024-11,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0389,2,Detractor,0,The streaming quality was terrible during the last game.,2024-09-14,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0390,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-27,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0391,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-05,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0392,1,Passive,5,Wish there were more pre-game analysis segments.,2024-12-12,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0393,3,Passive,5,"No feedback, everything seems to be working fine.",2024-05-21,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0394,4,Passive,5,The streaming quality was terrible during the last game.,2024-08-12,2024-08,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0395,1,Detractor,0,I love the new commentator! Great addition to the team.,2024-07-06,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0396,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-08-08,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0397,3,Detractor,0,The streaming quality was terrible during the last game.,2024-04-28,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0398,1,Passive,5,"No feedback, everything seems to be working fine.",2024-09-15,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0399,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-22,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0400,1,Passive,5,"The app keeps crashing, please fix it.",2024-08-03,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0401,1,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-27,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0402,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-07,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0403,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-09,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0404,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-19,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0405,2,Passive,5,I love the new commentator! Great addition to the team.,2024-11-20,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0406,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-07,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0407,2,Passive,5,Subscription price is too high for what's offered.,2024-11-04,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0408,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-03-05,2024-03,i love the new commentator great addition to the team,0.8519,positive
+CUST_0409,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-08,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0410,5,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-09,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0411,3,Promoter,10,Subscription price is too high for what's offered.,2024-11-13,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0412,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-26,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0413,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-02-14,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0414,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-14,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0415,5,Promoter,10,Subscription price is too high for what's offered.,2024-12-06,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0416,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-15,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0417,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-20,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0418,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-27,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0419,4,Detractor,0,I love the new commentator! Great addition to the team.,2024-04-11,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0420,4,Promoter,10,The streaming quality was terrible during the last game.,2024-02-02,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0421,1,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-09-14,2024-09,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0422,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-08,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0423,2,Passive,5,Subscription price is too high for what's offered.,2024-08-18,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0424,5,Promoter,10,The streaming quality was terrible during the last game.,2024-05-29,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0425,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-03,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0426,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-02,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0427,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-10,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0428,5,Passive,5,Subscription price is too high for what's offered.,2024-10-01,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0429,5,Passive,5,"The app keeps crashing, please fix it.",2024-03-03,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0430,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-16,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0431,3,Passive,5,Wish there were more pre-game analysis segments.,2024-01-03,2024-01,wish there were more pre game analysis segments,0.4019,positive
+CUST_0432,1,Detractor,0,Subscription price is too high for what's offered.,2024-05-31,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0433,4,Passive,5,"No feedback, everything seems to be working fine.",2024-03-23,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0434,2,Passive,5,"No feedback, everything seems to be working fine.",2024-12-19,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0435,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-13,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0436,4,Promoter,10,"The app keeps crashing, please fix it.",2024-08-17,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0437,1,Promoter,10,The streaming quality was terrible during the last game.,2024-02-09,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0438,4,Passive,5,"No feedback, everything seems to be working fine.",2024-10-21,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0439,2,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-03-23,2024-03,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0440,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-02,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0441,1,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-01-11,2024-01,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0442,2,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-02-06,2024-02,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0443,2,Detractor,0,Wish there were more pre-game analysis segments.,2024-06-13,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0444,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-18,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0445,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-18,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0446,1,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-06-17,2024-06,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0447,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-03,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0448,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-27,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0449,2,Promoter,10,The streaming quality was terrible during the last game.,2024-12-28,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0450,1,Passive,5,The streaming quality was terrible during the last game.,2024-01-21,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0451,5,Detractor,0,The streaming quality was terrible during the last game.,2024-03-05,2024-03,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0452,3,Promoter,10,"The app keeps crashing, please fix it.",2024-03-12,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0453,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-04-04,2024-04,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0454,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-27,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0455,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-15,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0456,4,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-27,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0457,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-30,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0458,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-06,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0459,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-12,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0460,4,Detractor,0,I love the new commentator! Great addition to the team.,2024-08-24,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0461,2,Passive,5,The streaming quality was terrible during the last game.,2024-09-28,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0462,5,Passive,5,Wish there were more pre-game analysis segments.,2024-04-15,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0463,1,Promoter,10,Subscription price is too high for what's offered.,2024-05-19,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0464,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-04,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0465,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-07,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0466,1,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-06-26,2024-06,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0467,4,Promoter,10,"The app keeps crashing, please fix it.",2024-12-29,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0468,2,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-25,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0469,3,Promoter,10,The streaming quality was terrible during the last game.,2024-01-23,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0470,4,Promoter,10,"The app keeps crashing, please fix it.",2024-11-01,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0471,4,Passive,5,"No feedback, everything seems to be working fine.",2024-07-21,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0472,5,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-19,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0473,3,Detractor,0,Wish there were more pre-game analysis segments.,2024-10-06,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0474,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-09-17,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0475,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-18,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0476,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-15,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0477,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-19,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0478,1,Promoter,10,"The app keeps crashing, please fix it.",2024-05-16,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0479,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-02,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0480,1,Detractor,0,The streaming quality was terrible during the last game.,2024-05-28,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0481,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-15,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0482,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-08,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0483,5,Passive,5,Wish there were more pre-game analysis segments.,2024-11-17,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0484,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-14,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0485,1,Passive,5,"The app keeps crashing, please fix it.",2024-07-13,2024-07,the app keeps crashing please fix it,0.3182,positive
+CUST_0486,4,Promoter,10,The streaming quality was terrible during the last game.,2024-10-15,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0487,4,Promoter,10,"The app keeps crashing, please fix it.",2024-06-25,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0488,4,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-10-03,2024-10,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0489,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-10-02,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0490,4,Passive,5,"No feedback, everything seems to be working fine.",2024-09-18,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0491,2,Passive,5,"No feedback, everything seems to be working fine.",2024-10-12,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0492,3,Detractor,0,The streaming quality was terrible during the last game.,2024-10-31,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0493,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-17,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0494,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-11-11,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0495,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-12,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0496,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-09-30,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0497,1,Passive,5,Subscription price is too high for what's offered.,2024-04-19,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0498,2,Detractor,0,Subscription price is too high for what's offered.,2024-12-30,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0499,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-10-23,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0500,1,Passive,5,The streaming quality was terrible during the last game.,2024-02-11,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0501,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-04,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0502,4,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-06,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0503,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-26,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0504,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-29,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0505,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-09-03,2024-09,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0506,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-01,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0507,1,Passive,5,Wish there were more pre-game analysis segments.,2024-10-01,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0508,4,Promoter,10,"The app keeps crashing, please fix it.",2024-02-01,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0509,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-22,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0510,3,Promoter,10,"The app keeps crashing, please fix it.",2024-04-25,2024-04,the app keeps crashing please fix it,0.3182,positive
+CUST_0511,1,Promoter,10,The streaming quality was terrible during the last game.,2024-08-09,2024-08,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0512,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-07-22,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0513,2,Detractor,0,Wish there were more pre-game analysis segments.,2024-11-01,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0514,2,Detractor,0,"The app keeps crashing, please fix it.",2024-09-23,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0515,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-11,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0516,4,Detractor,0,The streaming quality was terrible during the last game.,2024-11-15,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0517,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-11,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0518,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-03,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0519,3,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-12-21,2024-12,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0520,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-24,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0521,4,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-07-09,2024-07,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0522,3,Passive,5,I love the new commentator! Great addition to the team.,2024-12-08,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0523,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-30,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0524,4,Passive,5,"The app keeps crashing, please fix it.",2024-05-18,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0525,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-10-12,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0526,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-31,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0527,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-18,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0528,3,Detractor,0,Subscription price is too high for what's offered.,2024-05-02,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0529,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-31,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0530,1,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-06-19,2024-06,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0531,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-26,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0532,4,Passive,5,Wish there were more pre-game analysis segments.,2024-07-16,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0533,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-02-22,2024-02,wish there were more pre game analysis segments,0.4019,positive
+CUST_0534,1,Passive,5,The streaming quality was terrible during the last game.,2024-10-23,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0535,5,Passive,5,"No feedback, everything seems to be working fine.",2024-07-27,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0536,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-04,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0537,1,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-01-19,2024-01,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0538,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-08,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0539,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-05,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0540,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-05,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0541,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-24,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0542,5,Promoter,10,The streaming quality was terrible during the last game.,2024-07-03,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0543,1,Passive,5,Subscription price is too high for what's offered.,2024-07-23,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0544,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-24,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0545,3,Passive,5,"The app keeps crashing, please fix it.",2024-07-26,2024-07,the app keeps crashing please fix it,0.3182,positive
+CUST_0546,2,Detractor,0,I love the new commentator! Great addition to the team.,2024-10-19,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0547,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-02-28,2024-02,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0548,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-18,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0549,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-28,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0550,1,Detractor,0,I love the new commentator! Great addition to the team.,2024-04-20,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0551,3,Passive,5,Subscription price is too high for what's offered.,2024-04-04,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0552,1,Passive,5,"No feedback, everything seems to be working fine.",2024-07-30,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0553,1,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-02-14,2024-02,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0554,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-10,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0555,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-09,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0556,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-19,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0557,4,Promoter,10,The streaming quality was terrible during the last game.,2024-09-12,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0558,2,Passive,5,The streaming quality was terrible during the last game.,2024-07-27,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0559,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-30,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0560,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-13,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0561,2,Promoter,10,Subscription price is too high for what's offered.,2024-04-07,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0562,3,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-10,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0563,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-08-31,2024-08,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0564,4,Passive,5,I love the new commentator! Great addition to the team.,2024-07-31,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0565,3,Promoter,10,"The app keeps crashing, please fix it.",2024-01-06,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0566,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-15,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0567,4,Promoter,10,Subscription price is too high for what's offered.,2024-03-27,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0568,2,Passive,5,The streaming quality was terrible during the last game.,2024-04-08,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0569,4,Detractor,0,The streaming quality was terrible during the last game.,2024-10-11,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0570,2,Detractor,0,Subscription price is too high for what's offered.,2024-03-05,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0571,4,Passive,5,"The app keeps crashing, please fix it.",2024-12-10,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0572,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-05-07,2024-05,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0573,2,Detractor,0,"The app keeps crashing, please fix it.",2024-05-13,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0574,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-08,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0575,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-15,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0576,3,Detractor,0,The streaming quality was terrible during the last game.,2024-11-05,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0577,3,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-28,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0578,5,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-04-19,2024-04,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0579,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-06-05,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0580,3,Promoter,10,Subscription price is too high for what's offered.,2024-09-12,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0581,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-05,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0582,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-09,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0583,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-03,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0584,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-16,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0585,5,Passive,5,Subscription price is too high for what's offered.,2024-06-09,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0586,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-04,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0587,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-21,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0588,4,Passive,5,I love the new commentator! Great addition to the team.,2024-04-30,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0589,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-06,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0590,2,Detractor,0,Subscription price is too high for what's offered.,2024-12-09,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0591,5,Promoter,10,"The app keeps crashing, please fix it.",2024-06-18,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0592,5,Passive,5,"No feedback, everything seems to be working fine.",2024-05-01,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0593,3,Promoter,10,Subscription price is too high for what's offered.,2024-01-03,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0594,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-09-14,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0595,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-06-03,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0596,5,Promoter,10,The streaming quality was terrible during the last game.,2024-09-11,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0597,2,Detractor,0,Wish there were more pre-game analysis segments.,2024-08-25,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0598,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-18,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0599,3,Detractor,0,The streaming quality was terrible during the last game.,2024-07-10,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0600,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-20,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0601,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-28,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0602,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-04-30,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0603,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-13,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0604,5,Promoter,10,"The app keeps crashing, please fix it.",2024-06-09,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0605,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-06-24,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0606,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-10-23,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0607,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-29,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0608,5,Promoter,10,The streaming quality was terrible during the last game.,2024-05-05,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0609,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-05,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0610,3,Passive,5,"No feedback, everything seems to be working fine.",2024-05-21,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0611,3,Detractor,0,Subscription price is too high for what's offered.,2024-02-29,2024-02,subscription price is too high for what s offered,0.0,neutral
+CUST_0612,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-26,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0613,4,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-03,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0614,4,Passive,5,The streaming quality was terrible during the last game.,2024-06-04,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0615,2,Detractor,0,Subscription price is too high for what's offered.,2024-11-04,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0616,3,Detractor,0,The streaming quality was terrible during the last game.,2024-08-16,2024-08,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0617,3,Detractor,0,"The app keeps crashing, please fix it.",2024-08-31,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0618,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-01-15,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0619,3,Promoter,10,The streaming quality was terrible during the last game.,2024-02-01,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0620,5,Promoter,10,"The app keeps crashing, please fix it.",2024-11-12,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0621,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-12-13,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0622,5,Passive,5,The streaming quality was terrible during the last game.,2024-07-10,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0623,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-07-18,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0624,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-02,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0625,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-13,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0626,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-14,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0627,1,Detractor,0,The streaming quality was terrible during the last game.,2024-05-31,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0628,2,Passive,5,"No feedback, everything seems to be working fine.",2024-03-31,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0629,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-30,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0630,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-24,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0631,1,Promoter,10,Subscription price is too high for what's offered.,2024-08-21,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0632,4,Passive,5,Wish there were more pre-game analysis segments.,2024-05-01,2024-05,wish there were more pre game analysis segments,0.4019,positive
+CUST_0633,3,Detractor,0,Wish there were more pre-game analysis segments.,2024-04-26,2024-04,wish there were more pre game analysis segments,0.4019,positive
+CUST_0634,2,Passive,5,Wish there were more pre-game analysis segments.,2024-08-23,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0635,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-24,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0636,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-26,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0637,4,Detractor,0,"The app keeps crashing, please fix it.",2024-10-07,2024-10,the app keeps crashing please fix it,0.3182,positive
+CUST_0638,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-29,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0639,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-08,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0640,2,Passive,5,"No feedback, everything seems to be working fine.",2024-02-24,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0641,4,Passive,5,Subscription price is too high for what's offered.,2024-08-14,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0642,3,Passive,5,"No feedback, everything seems to be working fine.",2024-10-03,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0643,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-09-27,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0644,3,Passive,5,"The app keeps crashing, please fix it.",2024-03-01,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0645,5,Detractor,0,The streaming quality was terrible during the last game.,2024-02-09,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0646,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-04,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0647,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-03-22,2024-03,wish there were more pre game analysis segments,0.4019,positive
+CUST_0648,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-14,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0649,2,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-12-20,2024-12,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0650,3,Detractor,0,"The app keeps crashing, please fix it.",2024-04-19,2024-04,the app keeps crashing please fix it,0.3182,positive
+CUST_0651,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-14,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0652,2,Promoter,10,"The app keeps crashing, please fix it.",2024-12-22,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0653,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-01,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0654,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-07,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0655,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-06-04,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0656,2,Detractor,0,"The app keeps crashing, please fix it.",2024-02-15,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0657,3,Promoter,10,Subscription price is too high for what's offered.,2024-02-24,2024-02,subscription price is too high for what s offered,0.0,neutral
+CUST_0658,4,Passive,5,The streaming quality was terrible during the last game.,2024-09-15,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0659,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-14,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0660,4,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-07-02,2024-07,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0661,1,Passive,5,"The app keeps crashing, please fix it.",2024-12-06,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0662,5,Promoter,10,Subscription price is too high for what's offered.,2024-04-20,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0663,3,Promoter,10,"The app keeps crashing, please fix it.",2024-12-08,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0664,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-19,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0665,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-12-20,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0666,5,Detractor,0,Wish there were more pre-game analysis segments.,2024-07-12,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0667,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-01,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0668,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-02-07,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0669,5,Passive,5,Subscription price is too high for what's offered.,2024-03-30,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0670,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-03,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0671,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-22,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0672,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-07-07,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0673,4,Passive,5,"No feedback, everything seems to be working fine.",2024-11-22,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0674,2,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-07-13,2024-07,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0675,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-12,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0676,1,Promoter,10,"The app keeps crashing, please fix it.",2024-11-19,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0677,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-24,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0678,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-11-25,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0679,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-25,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0680,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-26,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0681,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-05,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0682,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-23,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0683,2,Detractor,0,"The app keeps crashing, please fix it.",2024-08-13,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0684,2,Promoter,10,Subscription price is too high for what's offered.,2024-05-31,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0685,1,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-04-02,2024-04,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0686,5,Detractor,0,The streaming quality was terrible during the last game.,2024-07-28,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0687,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-04,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0688,5,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-19,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0689,5,Passive,5,"No feedback, everything seems to be working fine.",2024-07-02,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0690,1,Passive,5,Wish there were more pre-game analysis segments.,2024-03-01,2024-03,wish there were more pre game analysis segments,0.4019,positive
+CUST_0691,4,Promoter,10,I love the new commentator! Great addition to the team.,2024-07-22,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0692,4,Detractor,0,Subscription price is too high for what's offered.,2024-09-12,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0693,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-10-15,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0694,2,Passive,5,Subscription price is too high for what's offered.,2024-11-12,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0695,3,Passive,5,"No feedback, everything seems to be working fine.",2024-03-06,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0696,1,Detractor,0,Wish there were more pre-game analysis segments.,2024-07-12,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0697,4,Detractor,0,The streaming quality was terrible during the last game.,2024-01-19,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0698,1,Detractor,0,The streaming quality was terrible during the last game.,2024-01-27,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0699,3,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-05-18,2024-05,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0700,4,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-08-28,2024-08,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0701,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-05,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0702,3,Promoter,10,The streaming quality was terrible during the last game.,2024-12-27,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0703,5,Passive,5,Subscription price is too high for what's offered.,2024-08-19,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0704,2,Passive,5,The streaming quality was terrible during the last game.,2024-04-16,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0705,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-13,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0706,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-30,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0707,1,Passive,5,I love the new commentator! Great addition to the team.,2024-10-06,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0708,5,Promoter,10,"The app keeps crashing, please fix it.",2024-12-28,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0709,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-08,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0710,4,Detractor,0,The streaming quality was terrible during the last game.,2024-10-03,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0711,4,Passive,5,"The app keeps crashing, please fix it.",2024-09-25,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0712,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-02-26,2024-02,wish there were more pre game analysis segments,0.4019,positive
+CUST_0713,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-08-18,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0714,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-03,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0715,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-11-11,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0716,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-08-04,2024-08,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0717,5,Detractor,0,"The app keeps crashing, please fix it.",2024-04-22,2024-04,the app keeps crashing please fix it,0.3182,positive
+CUST_0718,1,Detractor,0,"The app keeps crashing, please fix it.",2024-11-07,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0719,2,Passive,5,The streaming quality was terrible during the last game.,2024-04-26,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0720,1,Passive,5,"The app keeps crashing, please fix it.",2024-01-23,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0721,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-12,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0722,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-04-18,2024-04,i love the new commentator great addition to the team,0.8519,positive
+CUST_0723,1,Promoter,10,"The app keeps crashing, please fix it.",2024-03-20,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0724,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-08-10,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0725,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-03-02,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0726,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-01-14,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0727,1,Passive,5,"No feedback, everything seems to be working fine.",2024-10-03,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0728,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-22,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0729,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-19,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0730,4,Promoter,10,"The app keeps crashing, please fix it.",2024-09-18,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0731,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-24,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0732,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-06-02,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0733,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-05,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0734,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-11,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0735,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-12-19,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0736,4,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-26,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0737,2,Passive,5,"No feedback, everything seems to be working fine.",2024-07-22,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0738,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-08-25,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0739,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-24,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0740,2,Detractor,0,The streaming quality was terrible during the last game.,2024-09-06,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0741,5,Promoter,10,The streaming quality was terrible during the last game.,2024-04-03,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0742,4,Detractor,0,The streaming quality was terrible during the last game.,2024-10-15,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0743,4,Passive,5,"No feedback, everything seems to be working fine.",2024-01-30,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0744,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-19,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0745,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-22,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0746,3,Detractor,0,Subscription price is too high for what's offered.,2024-04-02,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0747,5,Passive,5,The streaming quality was terrible during the last game.,2024-11-24,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0748,2,Promoter,10,The streaming quality was terrible during the last game.,2024-12-15,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0749,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-28,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0750,1,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-08,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0751,1,Passive,5,"No feedback, everything seems to be working fine.",2024-08-27,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0752,1,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-11-25,2024-11,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0753,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-14,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0754,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-09-02,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0755,1,Detractor,0,"The app keeps crashing, please fix it.",2024-07-09,2024-07,the app keeps crashing please fix it,0.3182,positive
+CUST_0756,4,Detractor,0,I love the new commentator! Great addition to the team.,2024-05-24,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0757,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-20,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0758,3,Passive,5,"No feedback, everything seems to be working fine.",2024-08-08,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0759,3,Promoter,10,The streaming quality was terrible during the last game.,2024-04-04,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0760,5,Detractor,0,"No feedback, everything seems to be working fine.",2024-08-24,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0761,3,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-02-25,2024-02,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0762,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-12,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0763,1,Passive,5,Subscription price is too high for what's offered.,2024-11-08,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0764,2,Passive,5,I love the new commentator! Great addition to the team.,2024-02-13,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0765,2,Promoter,10,The streaming quality was terrible during the last game.,2024-10-14,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0766,5,Passive,5,"No feedback, everything seems to be working fine.",2024-02-28,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0767,5,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-06-26,2024-06,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0768,4,Detractor,0,The streaming quality was terrible during the last game.,2024-09-06,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0769,2,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-25,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0770,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-27,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0771,4,Detractor,0,The streaming quality was terrible during the last game.,2024-07-14,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0772,2,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-28,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0773,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-02,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0774,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-01-15,2024-01,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0775,4,Promoter,10,The streaming quality was terrible during the last game.,2024-06-26,2024-06,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0776,4,Detractor,0,"The app keeps crashing, please fix it.",2024-01-23,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0777,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-04,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0778,1,Detractor,0,I love the new commentator! Great addition to the team.,2024-08-31,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0779,4,Passive,5,Subscription price is too high for what's offered.,2024-10-04,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0780,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-08-11,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0781,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-02,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0782,1,Detractor,0,Subscription price is too high for what's offered.,2024-11-01,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0783,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-01-07,2024-01,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0784,4,Promoter,10,"The app keeps crashing, please fix it.",2024-09-27,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0785,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-12-14,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0786,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-31,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0787,1,Passive,5,I love the new commentator! Great addition to the team.,2024-08-30,2024-08,i love the new commentator great addition to the team,0.8519,positive
+CUST_0788,3,Passive,5,The streaming quality was terrible during the last game.,2024-11-03,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0789,2,Passive,5,The streaming quality was terrible during the last game.,2024-11-30,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0790,5,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-11,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0791,4,Promoter,10,"The app keeps crashing, please fix it.",2024-01-16,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0792,3,Detractor,0,"The app keeps crashing, please fix it.",2024-08-30,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0793,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-03,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0794,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-27,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0795,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-01,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0796,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-05-07,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0797,4,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-06-01,2024-06,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0798,5,Passive,5,"No feedback, everything seems to be working fine.",2024-11-22,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0799,2,Passive,5,"No feedback, everything seems to be working fine.",2024-09-24,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0800,1,Passive,5,"No feedback, everything seems to be working fine.",2024-04-24,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0801,5,Promoter,10,The streaming quality was terrible during the last game.,2024-12-16,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0802,2,Detractor,0,Wish there were more pre-game analysis segments.,2024-07-20,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0803,1,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-06-01,2024-06,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0804,3,Promoter,10,"The app keeps crashing, please fix it.",2024-02-24,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0805,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-15,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0806,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-13,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0807,2,Passive,5,"No feedback, everything seems to be working fine.",2024-12-18,2024-12,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0808,5,Detractor,0,Subscription price is too high for what's offered.,2024-05-22,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0809,1,Passive,5,Subscription price is too high for what's offered.,2024-12-18,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0810,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-18,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0811,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-23,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0812,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-02,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0813,4,Passive,5,I love the new commentator! Great addition to the team.,2024-01-01,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0814,1,Promoter,10,Wish there were more pre-game analysis segments.,2024-06-23,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0815,3,Promoter,10,Subscription price is too high for what's offered.,2024-11-21,2024-11,subscription price is too high for what s offered,0.0,neutral
+CUST_0816,5,Promoter,10,"The app keeps crashing, please fix it.",2024-02-28,2024-02,the app keeps crashing please fix it,0.3182,positive
+CUST_0817,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-09-28,2024-09,wish there were more pre game analysis segments,0.4019,positive
+CUST_0818,4,Detractor,0,"No feedback, everything seems to be working fine.",2024-10-17,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0819,2,Promoter,10,Subscription price is too high for what's offered.,2024-06-17,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0820,2,Promoter,10,Subscription price is too high for what's offered.,2024-04-18,2024-04,subscription price is too high for what s offered,0.0,neutral
+CUST_0821,2,Promoter,10,The streaming quality was terrible during the last game.,2024-10-01,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0822,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-03,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0823,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-07-12,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0824,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-20,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0825,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-02-05,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0826,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-10-18,2024-10,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0827,2,Passive,5,"The app keeps crashing, please fix it.",2024-09-09,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0828,4,Passive,5,"The app keeps crashing, please fix it.",2024-03-13,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0829,5,Promoter,10,The streaming quality was terrible during the last game.,2024-05-08,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0830,5,Promoter,10,"The app keeps crashing, please fix it.",2024-07-28,2024-07,the app keeps crashing please fix it,0.3182,positive
+CUST_0831,3,Detractor,0,Wish there were more pre-game analysis segments.,2024-08-28,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0832,5,Detractor,0,I love the new commentator! Great addition to the team.,2024-07-19,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0833,3,Passive,5,The streaming quality was terrible during the last game.,2024-03-07,2024-03,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0834,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-20,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0835,1,Detractor,0,Wish there were more pre-game analysis segments.,2024-01-05,2024-01,wish there were more pre game analysis segments,0.4019,positive
+CUST_0836,4,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-04,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0837,1,Passive,5,"No feedback, everything seems to be working fine.",2024-11-19,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0838,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-20,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0839,4,Detractor,0,"The app keeps crashing, please fix it.",2024-01-04,2024-01,the app keeps crashing please fix it,0.3182,positive
+CUST_0840,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-09-29,2024-09,i love the new commentator great addition to the team,0.8519,positive
+CUST_0841,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-20,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0842,2,Passive,5,I love the new commentator! Great addition to the team.,2024-12-24,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0843,2,Promoter,10,Subscription price is too high for what's offered.,2024-12-22,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0844,1,Passive,5,Subscription price is too high for what's offered.,2024-05-13,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0845,5,Passive,5,The streaming quality was terrible during the last game.,2024-01-25,2024-01,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0846,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-29,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0847,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-23,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0848,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-09-20,2024-09,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0849,1,Passive,5,Wish there were more pre-game analysis segments.,2024-01-30,2024-01,wish there were more pre game analysis segments,0.4019,positive
+CUST_0850,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-28,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0851,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-24,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0852,3,Promoter,10,Subscription price is too high for what's offered.,2024-01-05,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0853,4,Promoter,10,Subscription price is too high for what's offered.,2024-07-04,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0854,1,Promoter,10,Subscription price is too high for what's offered.,2024-05-14,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0855,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-17,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0856,3,Promoter,10,"The app keeps crashing, please fix it.",2024-06-22,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0857,5,Promoter,10,The streaming quality was terrible during the last game.,2024-10-17,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0858,2,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-09,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0859,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-06-04,2024-06,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0860,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-08-26,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0861,3,Promoter,10,Subscription price is too high for what's offered.,2024-09-28,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0862,5,Passive,5,I love the new commentator! Great addition to the team.,2024-10-31,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0863,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-28,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0864,5,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-12-17,2024-12,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0865,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-28,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0866,2,Passive,5,"No feedback, everything seems to be working fine.",2024-11-15,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0867,1,Passive,5,Subscription price is too high for what's offered.,2024-07-30,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0868,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-03-14,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0869,1,Passive,5,The streaming quality was terrible during the last game.,2024-12-09,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0870,1,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-06-14,2024-06,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0871,4,Passive,5,Wish there were more pre-game analysis segments.,2024-08-09,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0872,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-03-11,2024-03,i love the new commentator great addition to the team,0.8519,positive
+CUST_0873,1,Promoter,10,"The app keeps crashing, please fix it.",2024-11-17,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0874,3,Passive,5,I love the new commentator! Great addition to the team.,2024-06-28,2024-06,i love the new commentator great addition to the team,0.8519,positive
+CUST_0875,1,Detractor,0,Wish there were more pre-game analysis segments.,2024-03-14,2024-03,wish there were more pre game analysis segments,0.4019,positive
+CUST_0876,3,Passive,5,Subscription price is too high for what's offered.,2024-10-25,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0877,3,Passive,5,Wish there were more pre-game analysis segments.,2024-06-29,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0878,5,Detractor,0,"The app keeps crashing, please fix it.",2024-06-13,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0879,1,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-14,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0880,5,Promoter,10,"No feedback, everything seems to be working fine.",2024-08-30,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0881,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-07-08,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0882,1,Detractor,0,Wish there were more pre-game analysis segments.,2024-06-02,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0883,4,Passive,5,"No feedback, everything seems to be working fine.",2024-08-08,2024-08,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0884,3,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-07-24,2024-07,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0885,2,Passive,5,I love the new commentator! Great addition to the team.,2024-10-31,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0886,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-26,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0887,4,Passive,5,"No feedback, everything seems to be working fine.",2024-02-14,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0888,4,Passive,5,"No feedback, everything seems to be working fine.",2024-04-10,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0889,3,Detractor,0,"The app keeps crashing, please fix it.",2024-06-28,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0890,4,Promoter,10,The streaming quality was terrible during the last game.,2024-11-29,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0891,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-09,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0892,1,Passive,5,"No feedback, everything seems to be working fine.",2024-04-02,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0893,3,Promoter,10,Subscription price is too high for what's offered.,2024-08-05,2024-08,subscription price is too high for what s offered,0.0,neutral
+CUST_0894,1,Promoter,10,The streaming quality was terrible during the last game.,2024-02-03,2024-02,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0895,4,Passive,5,"The app keeps crashing, please fix it.",2024-12-07,2024-12,the app keeps crashing please fix it,0.3182,positive
+CUST_0896,2,Passive,5,"No feedback, everything seems to be working fine.",2024-11-14,2024-11,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0897,2,Detractor,0,Subscription price is too high for what's offered.,2024-05-05,2024-05,subscription price is too high for what s offered,0.0,neutral
+CUST_0898,5,Detractor,0,Subscription price is too high for what's offered.,2024-12-17,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0899,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-19,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0900,1,Promoter,10,Subscription price is too high for what's offered.,2024-07-11,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0901,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-08-20,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0902,3,Passive,5,Subscription price is too high for what's offered.,2024-12-06,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0903,1,Promoter,10,"No feedback, everything seems to be working fine.",2024-06-30,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0904,4,Detractor,0,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-04-11,2024-04,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0905,5,Passive,5,I love the new commentator! Great addition to the team.,2024-05-20,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0906,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-07-08,2024-07,i love the new commentator great addition to the team,0.8519,positive
+CUST_0907,5,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-06,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0908,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-02-09,2024-02,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0909,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-08-08,2024-08,wish there were more pre game analysis segments,0.4019,positive
+CUST_0910,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-10-24,2024-10,wish there were more pre game analysis segments,0.4019,positive
+CUST_0911,5,Detractor,0,Wish there were more pre-game analysis segments.,2024-06-16,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0912,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-10-21,2024-10,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0913,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-11-12,2024-11,i love the new commentator great addition to the team,0.8519,positive
+CUST_0914,5,Detractor,0,Subscription price is too high for what's offered.,2024-02-03,2024-02,subscription price is too high for what s offered,0.0,neutral
+CUST_0915,4,Promoter,10,"No feedback, everything seems to be working fine.",2024-04-10,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0916,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-06-27,2024-06,wish there were more pre game analysis segments,0.4019,positive
+CUST_0917,3,Passive,5,Subscription price is too high for what's offered.,2024-03-18,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0918,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-14,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0919,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-02-09,2024-02,wish there were more pre game analysis segments,0.4019,positive
+CUST_0920,2,Detractor,0,Subscription price is too high for what's offered.,2024-03-08,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0921,4,Promoter,10,"The app keeps crashing, please fix it.",2024-09-05,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0922,1,Promoter,10,The streaming quality was terrible during the last game.,2024-10-24,2024-10,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0923,5,Detractor,0,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-03-02,2024-03,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0924,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-03,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0925,1,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-28,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0926,1,Promoter,10,The streaming quality was terrible during the last game.,2024-11-03,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0927,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-12-05,2024-12,i love the new commentator great addition to the team,0.8519,positive
+CUST_0928,4,Promoter,10,Subscription price is too high for what's offered.,2024-09-09,2024-09,subscription price is too high for what s offered,0.0,neutral
+CUST_0929,4,Promoter,10,Subscription price is too high for what's offered.,2024-12-26,2024-12,subscription price is too high for what s offered,0.0,neutral
+CUST_0930,2,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-29,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0931,1,Passive,5,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-12-26,2024-12,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0932,1,Promoter,10,Subscription price is too high for what's offered.,2024-10-08,2024-10,subscription price is too high for what s offered,0.0,neutral
+CUST_0933,5,Passive,5,I love the new commentator! Great addition to the team.,2024-09-05,2024-09,i love the new commentator great addition to the team,0.8519,positive
+CUST_0934,2,Passive,5,Subscription price is too high for what's offered.,2024-06-10,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0935,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-10,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0936,3,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-10,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0937,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-02-17,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0938,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-03-06,2024-03,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0939,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-12,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0940,2,Passive,5,"No feedback, everything seems to be working fine.",2024-03-30,2024-03,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0941,1,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-24,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0942,4,Detractor,0,I love the new commentator! Great addition to the team.,2024-01-31,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0943,4,Detractor,0,The streaming quality was terrible during the last game.,2024-05-09,2024-05,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0944,4,Promoter,10,Subscription price is too high for what's offered.,2024-07-12,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0945,1,Promoter,10,I love the new commentator! Great addition to the team.,2024-10-14,2024-10,i love the new commentator great addition to the team,0.8519,positive
+CUST_0946,2,Promoter,10,The streaming quality was terrible during the last game.,2024-09-14,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0947,4,Promoter,10,"The app keeps crashing, please fix it.",2024-11-16,2024-11,the app keeps crashing please fix it,0.3182,positive
+CUST_0948,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-25,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0949,1,Promoter,10,The streaming quality was terrible during the last game.,2024-09-09,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0950,4,Promoter,10,Subscription price is too high for what's offered.,2024-07-25,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0951,2,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-01-22,2024-01,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0952,4,Promoter,10,I love the new commentator! Great addition to the team.,2024-01-15,2024-01,i love the new commentator great addition to the team,0.8519,positive
+CUST_0953,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-08-16,2024-08,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0954,5,Detractor,0,"The app keeps crashing, please fix it.",2024-05-14,2024-05,the app keeps crashing please fix it,0.3182,positive
+CUST_0955,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-02,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0956,3,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-09,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0957,4,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-07-25,2024-07,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0958,5,Promoter,10,"Great coverage, I am a loyal fan and appreciate the service.",2024-04-23,2024-04,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0959,3,Detractor,0,Subscription price is too high for what's offered.,2024-06-18,2024-06,subscription price is too high for what s offered,0.0,neutral
+CUST_0960,3,Promoter,10,Wish there were more pre-game analysis segments.,2024-07-21,2024-07,wish there were more pre game analysis segments,0.4019,positive
+CUST_0961,3,Detractor,0,"No feedback, everything seems to be working fine.",2024-06-05,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0962,5,Promoter,10,The streaming quality was terrible during the last game.,2024-11-30,2024-11,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0963,4,Detractor,0,Wish there were more pre-game analysis segments.,2024-11-02,2024-11,wish there were more pre game analysis segments,0.4019,positive
+CUST_0964,3,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-09-07,2024-09,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0965,1,Promoter,10,"The app keeps crashing, please fix it.",2024-08-13,2024-08,the app keeps crashing please fix it,0.3182,positive
+CUST_0966,5,Promoter,10,I love the new commentator! Great addition to the team.,2024-05-24,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0967,3,Passive,5,"No feedback, everything seems to be working fine.",2024-02-13,2024-02,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0968,3,Promoter,10,I'm happy with the service but I would love to be able to pause and rewind live streams.,2024-03-24,2024-03,i m happy with the service but i would love to be able to pause and rewind live streams,0.8462,positive
+CUST_0969,3,Promoter,10,The streaming quality was terrible during the last game.,2024-07-03,2024-07,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0970,3,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-12-12,2024-12,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0971,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-09-14,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0972,5,Detractor,0,The streaming quality was terrible during the last game.,2024-04-12,2024-04,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0973,1,Detractor,0,"No feedback, everything seems to be working fine.",2024-09-28,2024-09,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0974,1,Detractor,0,The streaming quality was terrible during the last game.,2024-12-23,2024-12,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0975,5,Passive,5,Subscription price is too high for what's offered.,2024-02-16,2024-02,subscription price is too high for what s offered,0.0,neutral
+CUST_0976,4,Passive,5,"No feedback, everything seems to be working fine.",2024-06-02,2024-06,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0977,3,Promoter,10,"No feedback, everything seems to be working fine.",2024-07-21,2024-07,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0978,2,Promoter,10,Subscription price is too high for what's offered.,2024-07-20,2024-07,subscription price is too high for what s offered,0.0,neutral
+CUST_0979,5,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-10-05,2024-10,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0980,4,Detractor,0,"The app keeps crashing, please fix it.",2024-03-16,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0981,3,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-11-11,2024-11,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0982,4,Promoter,10,Wish there were more pre-game analysis segments.,2024-12-29,2024-12,wish there were more pre game analysis segments,0.4019,positive
+CUST_0983,2,Promoter,10,I love the new commentator! Great addition to the team.,2024-05-28,2024-05,i love the new commentator great addition to the team,0.8519,positive
+CUST_0984,1,Detractor,0,"The app keeps crashing, please fix it.",2024-03-01,2024-03,the app keeps crashing please fix it,0.3182,positive
+CUST_0985,2,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-04-09,2024-04,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0986,5,Promoter,10,The streaming quality was terrible during the last game.,2024-09-04,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0987,5,Passive,5,"The app keeps crashing, please fix it.",2024-09-12,2024-09,the app keeps crashing please fix it,0.3182,positive
+CUST_0988,3,Passive,5,"The app keeps crashing, please fix it.",2024-06-30,2024-06,the app keeps crashing please fix it,0.3182,positive
+CUST_0989,3,Passive,5,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-07-26,2024-07,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_0990,2,Detractor,0,"No feedback, everything seems to be working fine.",2024-04-22,2024-04,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0991,5,Promoter,10,Wish there were more pre-game analysis segments.,2024-01-27,2024-01,wish there were more pre game analysis segments,0.4019,positive
+CUST_0992,2,Passive,5,"Great coverage, I am a loyal fan and appreciate the service.",2024-12-05,2024-12,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0993,5,Passive,5,The streaming quality was terrible during the last game.,2024-09-01,2024-09,the streaming quality was terrible during the last game,-0.4767,negative
+CUST_0994,1,Detractor,0,Subscription price is too high for what's offered.,2024-01-13,2024-01,subscription price is too high for what s offered,0.0,neutral
+CUST_0995,3,Passive,5,Subscription price is too high for what's offered.,2024-03-17,2024-03,subscription price is too high for what s offered,0.0,neutral
+CUST_0996,1,Passive,5,"No feedback, everything seems to be working fine.",2024-05-06,2024-05,no feedback everything seems to be working fine,-0.1027,negative
+CUST_0997,4,Detractor,0,"Great coverage, I am a loyal fan and appreciate the service.",2024-05-13,2024-05,great coverage i am a loyal fan and appreciate the service,0.9042,positive
+CUST_0998,3,Detractor,0,I love the new commentator! Great addition to the team.,2024-02-26,2024-02,i love the new commentator great addition to the team,0.8519,positive
+CUST_0999,3,Promoter,10,I wish there was an option to remove spoilers from my feed. It's so frustrating to have the final scores pop up before I can watch the game.,2024-10-01,2024-10,i wish there was an option to remove spoilers from my feed it s so frustrating to have the final scores pop up before i can watch the game,-0.2596,negative
+CUST_1000,3,Promoter,10,I love the new commentator! Great addition to the team.,2024-07-01,2024-07,i love the new commentator great addition to the team,0.8519,positive
