@@ -2,6 +2,11 @@ pandas
 numpy
 matplotlib
 seaborn
+prophet
 scikit-learn
-openpyxl
-jupyter
+vaderSentiment
+fpdf
+wordcloud
+reportlab
+PyPDF2
+
